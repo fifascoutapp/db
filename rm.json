@@ -56,20 +56,6 @@
         "retail": "1 September 2025"
     },
     {
-        "id": "10461",
-        "name": "Grandpa Pig's Garden and Greenhouse",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
-        "pieces": "102",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Duplo",
-        "subtheme": "Peppa Pig",
-        "year": "2025",
-        "price": "€79.99",
-        "retail": "1 June 2025"
-    },
-    {
         "id": "45652",
         "name": "Controller",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
@@ -229,12 +215,12 @@
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
         "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
         "pieces": "237",
-        "minifigs": "",
+        "minifigs": "5",
         "availability": "Rumored",
         "theme": "Friends",
         "subtheme": "Seasonal",
         "year": "2025",
-        "price": "",
+        "price": "€39.59",
         "retail": "1 September 2025"
     },
     {
@@ -292,20 +278,6 @@
         "year": "2025",
         "price": "",
         "retail": "28 November 2025"
-    },
-    {
-        "id": "21357",
-        "name": "Disney Pixar Lamp",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
-        "pieces": "613",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Ideas",
-        "subtheme": "None",
-        "year": "2025",
-        "price": "€69.99",
-        "retail": "1 June 2025"
     },
     {
         "id": "21358",
