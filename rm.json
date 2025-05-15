@@ -238,20 +238,6 @@
         "retail": "1 June 2025"
     },
     {
-        "id": "10352",
-        "name": "The Simpsons Krusty Burger",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
-        "pieces": "1,635",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Icons",
-        "subtheme": "Licensed",
-        "year": "2025",
-        "price": "€229.99",
-        "retail": "1 June 2025"
-    },
-    {
         "id": "10358",
         "name": "Transformers Soundwave",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
@@ -306,20 +292,6 @@
         "year": "2025",
         "price": "€279.99",
         "retail": "1 August 2025"
-    },
-    {
-        "id": "76316",
-        "name": "Galactus vs. The Fantastic Four",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
-        "pieces": "427",
-        "minifigs": "4",
-        "availability": "Rumored",
-        "theme": "Marvel Super Heroes",
-        "subtheme": "None",
-        "year": "2025",
-        "price": "€59.99",
-        "retail": "1 June 2025"
     },
     {
         "id": "75640",
