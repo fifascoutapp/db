@@ -224,20 +224,6 @@
         "retail": "1 August 2025"
     },
     {
-        "id": "10367",
-        "name": "Book Nook Gandalf vs. Durin's Bane",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
-        "pieces": "1,201",
-        "minifigs": "1",
-        "availability": "Rumored",
-        "theme": "Icons",
-        "subtheme": "Licensed",
-        "year": "2025",
-        "price": "€119.99",
-        "retail": "1 June 2025"
-    },
-    {
         "id": "10358",
         "name": "Transformers Soundwave",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
@@ -364,20 +350,6 @@
         "retail": ""
     },
     {
-        "id": "75431",
-        "name": "327th Star Corps Battle Pack",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
-        "pieces": "258",
-        "minifigs": "7",
-        "availability": "Rumored",
-        "theme": "Star Wars",
-        "subtheme": "None",
-        "year": "2025",
-        "price": "€39.99",
-        "retail": "1 June 2025"
-    },
-    {
         "id": "75433",
         "name": "Jango Fett's Starship",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
@@ -473,6 +445,20 @@
         "subtheme": "None",
         "year": "2025",
         "price": "€149.99",
+        "retail": "1 August 2025"
+    },
+    {
+        "id": "75431",
+        "name": "327th Star Corps Battle Pack",
+        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
+        "pieces": "258",
+        "minifigs": "7",
+        "availability": "Rumored",
+        "theme": "Star Wars",
+        "subtheme": "None",
+        "year": "2025",
+        "price": "€39.99",
         "retail": "1 August 2025"
     },
     {
