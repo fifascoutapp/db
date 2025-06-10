@@ -210,6 +210,20 @@
         "retail": "1 August 2025"
     },
     {
+        "id": "10357",
+        "name": "AC Cobra",
+        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
+        "pieces": "1,241",
+        "minifigs": "",
+        "availability": "Rumored",
+        "theme": "Icons",
+        "subtheme": "None",
+        "year": "2025",
+        "price": "€169.99",
+        "retail": "1 July 2025"
+    },
+    {
         "id": "10358",
         "name": "Transformers Soundwave",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
@@ -238,6 +252,34 @@
         "retail": "28 November 2025"
     },
     {
+        "id": "40789",
+        "name": "The Moon Car",
+        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
+        "pieces": "211",
+        "minifigs": "",
+        "availability": "Rumored",
+        "theme": "Ideas",
+        "subtheme": "Promotional",
+        "year": "2025",
+        "price": "",
+        "retail": "1 July 2025"
+    },
+    {
+        "id": "40788",
+        "name": "The Autumn Snails",
+        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
+        "pieces": "264",
+        "minifigs": "",
+        "availability": "Rumored",
+        "theme": "Ideas",
+        "subtheme": "Promotional",
+        "year": "2025",
+        "price": "",
+        "retail": "1 July 2025"
+    },
+    {
         "id": "21359",
         "name": "Italian Riviera",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
@@ -250,6 +292,20 @@
         "year": "2025",
         "price": "€279.99",
         "retail": "1 August 2025"
+    },
+    {
+        "id": "21361",
+        "name": "Gizmo",
+        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
+        "pieces": "",
+        "minifigs": "",
+        "availability": "Rumored",
+        "theme": "Ideas",
+        "subtheme": "None",
+        "year": "2025",
+        "price": "€99.99",
+        "retail": "1 October 2025"
     },
     {
         "id": "40780",
@@ -351,7 +407,7 @@
     },
     {
         "id": "75435",
-        "name": "MTT",
+        "name": "Clone Wars MTT",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
         "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_medium.jpg",
         "pieces": "976",
