@@ -112,8 +112,22 @@
         "retail": "Not yet released"
     },
     {
+        "id": "10366",
+        "name": "The Fish Tank",
+        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
+        "pieces": "4,154",
+        "minifigs": "",
+        "availability": "Rumored",
+        "theme": "Icons",
+        "subtheme": "None",
+        "year": "2025",
+        "price": "~€439.99",
+        "retail": "Not yet released"
+    },
+    {
         "id": "10356",
-        "name": "USS Enterprise D",
+        "name": "Star Trek USS Enterprise D",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
         "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
         "pieces": "3,600",
@@ -124,34 +138,6 @@
         "year": "2025",
         "price": "",
         "retail": ""
-    },
-    {
-        "id": "21362",
-        "name": "Minerals",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
-        "pieces": "880",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Ideas",
-        "subtheme": "None",
-        "year": "2025",
-        "price": "€59.99",
-        "retail": "Not yet released"
-    },
-    {
-        "id": "21361",
-        "name": "Gizmo",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-21361-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-21361-1_large-1.jpg",
-        "pieces": "",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Ideas",
-        "subtheme": "Licensed",
-        "year": "2025",
-        "price": "€99.99",
-        "retail": "Not yet released"
     },
     {
         "id": "21363",
@@ -308,6 +294,20 @@
         "retail": "Not yet released"
     },
     {
+        "id": "71859",
+        "name": "The Dragon of Life",
+        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
+        "pieces": "1,259",
+        "minifigs": "",
+        "availability": "Rumored",
+        "theme": "Ninjago",
+        "subtheme": "None",
+        "year": "2026",
+        "price": "~€96.79",
+        "retail": "Not yet released"
+    },
+    {
         "id": "71856",
         "name": "Jay’s Transforming Car",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
@@ -434,20 +434,6 @@
         "retail": "Not yet released"
     },
     {
-        "id": "77255",
-        "name": "Lightning McQueen",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
-        "pieces": "",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Speed Champions",
-        "subtheme": "None",
-        "year": "2026",
-        "price": "~€24.63",
-        "retail": "Not yet released"
-    },
-    {
         "id": "77254",
         "name": "Ferrari SF90 XX Stradale Sports Car",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
@@ -473,34 +459,6 @@
         "subtheme": "None",
         "year": "2026",
         "price": "~€24.63",
-        "retail": "Not yet released"
-    },
-    {
-        "id": "40806",
-        "name": "Holiday AT-AT",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
-        "pieces": "697",
-        "minifigs": "1",
-        "availability": "Rumored",
-        "theme": "Star Wars",
-        "subtheme": "Seasonal",
-        "year": "2025",
-        "price": "~€70.39",
-        "retail": "Not yet released"
-    },
-    {
-        "id": "75419",
-        "name": "UCS Death Star",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
-        "pieces": "9,023",
-        "minifigs": "38",
-        "availability": "Rumored",
-        "theme": "Star Wars",
-        "subtheme": "Ultimate Collector Series",
-        "year": "2025",
-        "price": "~€879.99",
         "retail": "Not yet released"
     },
     {
