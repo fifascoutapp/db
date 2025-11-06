@@ -406,20 +406,6 @@
         "retail": "Expected 1 January 2026"
     },
     {
-        "id": "71858",
-        "name": "Four Weapons Blacksmith",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
-        "pieces": "1,259",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Ninjago",
-        "subtheme": "None",
-        "year": "2026",
-        "price": "~€96.79",
-        "retail": "Expected 1 January 2026"
-    },
-    {
         "id": "71857",
         "name": "Ninja Vehicle Tree House Battle",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
@@ -614,6 +600,34 @@
         "year": "2025",
         "retail": "Expected 22 November 2025",
         "price": ""
+    },
+    {
+        "id": "40775",
+        "name": "Mini Knights Castle",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-40775-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40775-1_large-1.jpg",
+        "pieces": "590",
+        "minifigs": "",
+        "availability": "Rumored",
+        "theme": "Promotional",
+        "subtheme": "None",
+        "year": "2025",
+        "retail": "Expected 22 November 2025",
+        "price": ""
+    },
+    {
+        "id": "40864",
+        "name": "Fortune Master",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-40864-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40864-1_large-1.jpg",
+        "pieces": "386",
+        "minifigs": "",
+        "availability": "Rumored",
+        "theme": "Seasonal",
+        "subtheme": "Chinese Traditional Festival",
+        "year": "2026",
+        "price": "€29.99",
+        "retail": "Not yet released"
     },
     {
         "id": "77118",
