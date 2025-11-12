@@ -280,20 +280,6 @@
         "retail": "Expected 1 January 2026"
     },
     {
-        "id": "10356",
-        "name": "Star Trek U.S.S. Enterprise NCC-1701-D",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
-        "pieces": "3,600",
-        "minifigs": "9",
-        "availability": "Rumored",
-        "theme": "Icons",
-        "subtheme": "Star Trek",
-        "year": "2025",
-        "price": "€399.99",
-        "retail": "Expected 28 November 2025"
-    },
-    {
         "id": "21365",
         "name": "Love Birds",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
@@ -616,20 +602,6 @@
         "price": ""
     },
     {
-        "id": "40864",
-        "name": "Fortune Master",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-40864-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40864-1_large-1.jpg",
-        "pieces": "386",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Seasonal",
-        "subtheme": "Chinese Traditional Festival",
-        "year": "2026",
-        "price": "€29.99",
-        "retail": "Not yet released"
-    },
-    {
         "id": "77118",
         "name": "Silver’s Car vs Knuckles’ Monster Truck",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
@@ -939,14 +911,14 @@
     },
     {
         "id": "77093",
-        "name": "Ocarina of Time Ganondorf Diorama",
+        "name": "Ganondorf Diorama",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
         "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
         "pieces": "1,003",
         "minifigs": "",
         "availability": "Rumored",
         "theme": "The Legend of Zelda",
-        "subtheme": "None",
+        "subtheme": "Ocarina of Time",
         "year": "2026",
         "retail": "Expected 1 March 2026",
         "price": ""
