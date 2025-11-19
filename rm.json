@@ -280,6 +280,48 @@
         "retail": "Expected 1 January 2026"
     },
     {
+        "id": "11384",
+        "name": "Golden Retriever Puppy",
+        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
+        "pieces": "2,098",
+        "minifigs": "",
+        "availability": "Rumored",
+        "theme": "Icons",
+        "subtheme": "None",
+        "year": "2026",
+        "price": "€139.99",
+        "retail": "Expected 1 February 2026"
+    },
+    {
+        "id": "11376",
+        "name": "Ford T",
+        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
+        "pieces": "1,060",
+        "minifigs": "",
+        "availability": "Rumored",
+        "theme": "Icons",
+        "subtheme": "None",
+        "year": "2026",
+        "price": "€129.99",
+        "retail": "Expected 1 March 2026"
+    },
+    {
+        "id": "11375",
+        "name": "Ferrari with Michael Schumacher",
+        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
+        "pieces": "735",
+        "minifigs": "",
+        "availability": "Rumored",
+        "theme": "Icons",
+        "subtheme": "Formula 1",
+        "year": "2026",
+        "price": "€89.99",
+        "retail": "Expected 1 March 2026"
+    },
+    {
         "id": "21365",
         "name": "Love Birds",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
@@ -402,7 +444,7 @@
         "theme": "Ninjago",
         "subtheme": "None",
         "year": "2026",
-        "price": "~€70.39",
+        "price": "€79.99",
         "retail": "Expected 1 January 2026"
     },
     {
@@ -414,9 +456,9 @@
         "minifigs": "",
         "availability": "Rumored",
         "theme": "Ninjago",
-        "subtheme": "None",
+        "subtheme": "Legacy",
         "year": "2026",
-        "price": "~€4.39",
+        "price": "€3.99",
         "retail": "Expected 1 January 2026"
     },
     {
@@ -472,7 +514,7 @@
         "theme": "Ninjago",
         "subtheme": "None",
         "year": "2026",
-        "price": "~€8.79",
+        "price": "€9.99",
         "retail": "Expected 1 January 2026"
     },
     {
@@ -574,34 +616,6 @@
         "price": ""
     },
     {
-        "id": "5009806",
-        "name": "Retro Space Explorer",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
-        "pieces": "150",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Promotional",
-        "subtheme": "Insiders Reward",
-        "year": "2025",
-        "retail": "Expected 22 November 2025",
-        "price": ""
-    },
-    {
-        "id": "40775",
-        "name": "Mini Knights Castle",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-40775-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40775-1_large-1.jpg",
-        "pieces": "590",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Promotional",
-        "subtheme": "None",
-        "year": "2025",
-        "retail": "Expected 22 November 2025",
-        "price": ""
-    },
-    {
         "id": "77118",
         "name": "Silver’s Car vs Knuckles’ Monster Truck",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
@@ -638,9 +652,9 @@
         "minifigs": "",
         "availability": "Rumored",
         "theme": "Speed Champions",
-        "subtheme": "None",
+        "subtheme": "McLaren",
         "year": "2026",
-        "price": "~€24.63",
+        "price": "€27.99",
         "retail": "Expected 1 January 2026"
     },
     {
@@ -652,9 +666,9 @@
         "minifigs": "",
         "availability": "Rumored",
         "theme": "Speed Champions",
-        "subtheme": "None",
+        "subtheme": "Ferrari",
         "year": "2026",
-        "price": "~€24.63",
+        "price": "€27.99",
         "retail": "Expected 1 January 2026"
     },
     {
@@ -666,10 +680,24 @@
         "minifigs": "",
         "availability": "Rumored",
         "theme": "Speed Champions",
+        "subtheme": "Bugatti",
+        "year": "2026",
+        "price": "€27.99",
+        "retail": "Expected 1 January 2026"
+    },
+    {
+        "id": "77259",
+        "name": "Audi F1 Race Car",
+        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
+        "pieces": "215",
+        "minifigs": "",
+        "availability": "Rumored",
+        "theme": "Speed Champions",
         "subtheme": "None",
         "year": "2026",
-        "price": "~€24.63",
-        "retail": "Expected 1 January 2026"
+        "price": "€27.99",
+        "retail": "Expected 1 March 2026"
     },
     {
         "id": "75443",
@@ -680,9 +708,9 @@
         "minifigs": "",
         "availability": "Rumored",
         "theme": "Star Wars",
-        "subtheme": "None",
+        "subtheme": "The Mandalorian",
         "year": "2026",
-        "price": "~€17.59",
+        "price": "€19.99",
         "retail": "Expected 1 January 2026"
     },
     {
@@ -696,7 +724,7 @@
         "theme": "Star Wars",
         "subtheme": "None",
         "year": "2026",
-        "price": "~€57.19",
+        "price": "€64.99",
         "retail": "Expected 1 January 2026"
     },
     {
@@ -724,7 +752,7 @@
         "theme": "Star Wars",
         "subtheme": "None",
         "year": "2026",
-        "price": "~€4.39",
+        "price": "€3.99",
         "retail": "Expected 1 January 2026"
     },
     {
@@ -836,7 +864,7 @@
         "theme": "Star Wars",
         "subtheme": "None",
         "year": "2026",
-        "price": "~€52.79",
+        "price": "€59.99",
         "retail": "Expected 1 March 2026"
     },
     {
@@ -850,7 +878,7 @@
         "theme": "Star Wars",
         "subtheme": "None",
         "year": "2026",
-        "price": "~€43.99",
+        "price": "€49.99",
         "retail": "Expected 1 March 2026"
     },
     {
@@ -862,37 +890,37 @@
         "minifigs": "",
         "availability": "Rumored",
         "theme": "Technic",
-        "subtheme": "None",
+        "subtheme": "Licensed",
         "year": "2026",
-        "price": "~€52.79",
+        "price": "€59.99",
         "retail": "Expected 1 January 2026"
     },
     {
         "id": "42220",
-        "name": "Monster Jam Sparkle Smash Pull-Back",
+        "name": "Sparkle Smash Pull-Back",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
         "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
         "pieces": "",
         "minifigs": "",
         "availability": "Rumored",
         "theme": "Technic",
-        "subtheme": "None",
+        "subtheme": "Monster Jam",
         "year": "2026",
-        "price": "~€26.39",
+        "price": "€29.99",
         "retail": "Expected 1 January 2026"
     },
     {
         "id": "42219",
-        "name": "Monster Jam Grave Digger Fire and Ice Pull-Back",
+        "name": "Grave Digger Fire and Ice Pull-Back",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
         "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
         "pieces": "",
         "minifigs": "",
         "availability": "Rumored",
         "theme": "Technic",
-        "subtheme": "None",
+        "subtheme": "Monster Jam",
         "year": "2026",
-        "price": "~€26.39",
+        "price": "€29.99",
         "retail": "Expected 1 January 2026"
     },
     {
@@ -904,9 +932,9 @@
         "minifigs": "",
         "availability": "Rumored",
         "theme": "Technic",
-        "subtheme": "None",
+        "subtheme": "Licensed",
         "year": "2026",
-        "price": "~€8.79",
+        "price": "€9.99",
         "retail": "Expected 1 January 2026"
     },
     {
