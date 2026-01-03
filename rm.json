@@ -28,17 +28,31 @@
         "retail": "Expected 1 April 2026"
     },
     {
+        "id": "4000050",
+        "name": "LEGO Mexico Operations",
+        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
+        "pieces": "",
+        "minifigs": "",
+        "availability": "Retired",
+        "theme": "Exclusive",
+        "subtheme": "LEGO internal",
+        "year": "2026",
+        "retail": "",
+        "price": ""
+    },
+    {
         "id": "30724",
         "name": "Dumbledore's Office with Harry",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
         "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
         "pieces": "",
         "minifigs": "",
-        "availability": "Retail",
+        "availability": "Rumored",
         "theme": "Harry Potter",
         "subtheme": "None",
-        "year": "January 1, 2026",
-        "retail": "",
+        "year": "2026",
+        "retail": "Expected 1 February 2026",
         "price": ""
     },
     {
