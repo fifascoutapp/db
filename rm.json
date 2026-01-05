@@ -1,5 +1,33 @@
 [
     {
+        "id": "30716",
+        "name": "Cute Easter Bunny",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-30716-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-30716-1_large-1.jpg",
+        "pieces": "66",
+        "minifigs": "",
+        "availability": "Rumored",
+        "theme": "Creator",
+        "subtheme": "Seasonal",
+        "year": "2026",
+        "price": "€3.99",
+        "retail": "Expected 1 March 2026"
+    },
+    {
+        "id": "30726",
+        "name": "Batman Bruce Wayne and the Batsuit",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-30726-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-30726-1_large-1.jpg",
+        "pieces": "",
+        "minifigs": "2",
+        "availability": "Rumored",
+        "theme": "DC Comics Super Heroes",
+        "subtheme": "Batman",
+        "year": "2026",
+        "price": "€3.99",
+        "retail": "Expected 1 February 2026"
+    },
+    {
         "id": "43300",
         "name": "Winnie the Pooh",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
@@ -44,16 +72,16 @@
     {
         "id": "30724",
         "name": "Dumbledore's Office with Harry",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
-        "pieces": "",
-        "minifigs": "",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-30724-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-30724-1_large-1.jpg",
+        "pieces": "42",
+        "minifigs": "1",
         "availability": "Rumored",
         "theme": "Harry Potter",
         "subtheme": "None",
         "year": "2026",
-        "retail": "Expected 1 February 2026",
-        "price": ""
+        "price": "€399.00",
+        "retail": "Expected 1 February 2026"
     },
     {
         "id": "11384",
@@ -98,6 +126,34 @@
         "retail": "Expected 1 March 2026"
     },
     {
+        "id": "30725",
+        "name": "Spider-Man vs Anti-Venom Heist",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-30725-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-30725-1_large-1.jpg",
+        "pieces": "31",
+        "minifigs": "2",
+        "availability": "Rumored",
+        "theme": "Marvel Super Heroes",
+        "subtheme": "Spider-Man",
+        "year": "2026",
+        "price": "€3.99",
+        "retail": "Expected 1 February 2026"
+    },
+    {
+        "id": "30732",
+        "name": "Alex’s Campfire Conflict",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-30732-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-30732-1_large-1.jpg",
+        "pieces": "31",
+        "minifigs": "2",
+        "availability": "Rumored",
+        "theme": "Minecraft",
+        "subtheme": "None",
+        "year": "2026",
+        "price": "€3.99",
+        "retail": "Expected 1 February 2026"
+    },
+    {
         "id": "72151",
         "name": "Eevee",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
@@ -138,6 +194,20 @@
         "year": "2026",
         "price": "~€571.99",
         "retail": "Expected 27 February 2026"
+    },
+    {
+        "id": "30733",
+        "name": "Badnik Skorp",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-30733-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-30733-1_large-1.jpg",
+        "pieces": "80",
+        "minifigs": "",
+        "availability": "Rumored",
+        "theme": "Sonic the Hedgehog",
+        "subtheme": "None",
+        "year": "2026",
+        "price": "€3.99",
+        "retail": "Expected 1 February 2026"
     },
     {
         "id": "77259",
