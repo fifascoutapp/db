@@ -14,20 +14,6 @@
         "retail": "Expected 1 March 2026"
     },
     {
-        "id": "30726",
-        "name": "Batman Bruce Wayne and the Batsuit",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-30726-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-30726-1_large-1.jpg",
-        "pieces": "",
-        "minifigs": "2",
-        "availability": "Rumored",
-        "theme": "DC Comics Super Heroes",
-        "subtheme": "Batman",
-        "year": "2026",
-        "price": "€3.99",
-        "retail": "Expected 1 February 2026"
-    },
-    {
         "id": "43300",
         "name": "Winnie the Pooh",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
@@ -38,7 +24,7 @@
         "theme": "Disney",
         "subtheme": "None",
         "year": "2026",
-        "price": "~€131.99",
+        "price": "€131.99",
         "retail": "Expected 1 March 2026"
     },
     {
@@ -52,7 +38,7 @@
         "theme": "Disney",
         "subtheme": "None",
         "year": "2026",
-        "price": "~€131.99",
+        "price": "€131.99",
         "retail": "Expected 1 April 2026"
     },
     {
@@ -62,12 +48,12 @@
         "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
         "pieces": "",
         "minifigs": "",
-        "availability": "Retired",
+        "availability": "Rumored",
         "theme": "Exclusive",
         "subtheme": "LEGO internal",
         "year": "2026",
-        "retail": "",
-        "price": ""
+        "price": "",
+        "retail": ""
     },
     {
         "id": "30724",
@@ -140,20 +126,6 @@
         "retail": "Expected 1 February 2026"
     },
     {
-        "id": "30732",
-        "name": "Alex’s Campfire Conflict",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-30732-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-30732-1_large-1.jpg",
-        "pieces": "31",
-        "minifigs": "2",
-        "availability": "Rumored",
-        "theme": "Minecraft",
-        "subtheme": "None",
-        "year": "2026",
-        "price": "€3.99",
-        "retail": "Expected 1 February 2026"
-    },
-    {
         "id": "72151",
         "name": "Eevee",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
@@ -192,22 +164,8 @@
         "theme": "Pokémon",
         "subtheme": "None",
         "year": "2026",
-        "price": "~€571.99",
+        "price": "€571.99",
         "retail": "Expected 27 February 2026"
-    },
-    {
-        "id": "30733",
-        "name": "Badnik Skorp",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-30733-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-30733-1_large-1.jpg",
-        "pieces": "80",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Sonic the Hedgehog",
-        "subtheme": "None",
-        "year": "2026",
-        "price": "€3.99",
-        "retail": "Expected 1 February 2026"
     },
     {
         "id": "77259",
@@ -224,31 +182,73 @@
         "retail": "Expected 1 March 2026"
     },
     {
-        "id": "75423",
-        "name": "Luke Skywalker’s X-Wing",
+        "id": "75422",
+        "name": "Degobah Training",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
         "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
-        "pieces": "584",
-        "minifigs": "",
+        "pieces": "440",
+        "minifigs": "3",
         "availability": "Rumored",
         "theme": "Star Wars",
-        "subtheme": "None",
+        "subtheme": "SMART Play",
         "year": "2026",
-        "price": "~€87.99",
+        "price": "€69.99",
         "retail": "Expected 1 March 2026"
     },
     {
-        "id": "75421",
-        "name": "Darth Vader’s TIE Advanced",
+        "id": "75426",
+        "name": "Millennium Falcon",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
         "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
-        "pieces": "473",
+        "pieces": "885",
         "minifigs": "",
         "availability": "Rumored",
         "theme": "Star Wars",
-        "subtheme": "None",
+        "subtheme": "SMART Play",
         "year": "2026",
-        "price": "~€61.59",
+        "price": "€99.99",
+        "retail": "Expected 1 March 2026"
+    },
+    {
+        "id": "75425",
+        "name": "Mos Eisley Cantina",
+        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
+        "pieces": "666",
+        "minifigs": "5",
+        "availability": "Rumored",
+        "theme": "Star Wars",
+        "subtheme": "SMART Play",
+        "year": "2026",
+        "price": "€79.99",
+        "retail": "Expected 1 March 2026"
+    },
+    {
+        "id": "75424",
+        "name": "AT-ST",
+        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
+        "pieces": "347",
+        "minifigs": "1",
+        "availability": "Rumored",
+        "theme": "Star Wars",
+        "subtheme": "SMART Play",
+        "year": "2026",
+        "price": "€49.99",
+        "retail": "Expected 1 March 2026"
+    },
+    {
+        "id": "75420",
+        "name": "Landspeeder",
+        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
+        "pieces": "215",
+        "minifigs": "3",
+        "availability": "Rumored",
+        "theme": "Star Wars",
+        "subtheme": "SMART Play",
+        "year": "2026",
+        "price": "€39.99",
         "retail": "Expected 1 March 2026"
     },
     {
@@ -290,7 +290,7 @@
         "theme": "The Legend of Zelda",
         "subtheme": "Ocarina of Time",
         "year": "2026",
-        "retail": "Expected 1 March 2026",
-        "price": ""
+        "price": "",
+        "retail": "Expected 1 March 2026"
     }
 ]
