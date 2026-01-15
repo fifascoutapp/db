@@ -784,34 +784,6 @@
         "retail": "Available at retail"
     },
     {
-        "id": "71820",
-        "name": "Ninja Team Combo Vehicle",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-71820-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-71820-1_large-1.jpg",
-        "pieces": "576",
-        "minifigs": "6",
-        "availability": "Mid 2026",
-        "theme": "Ninjago",
-        "subtheme": "Dragons Rising Season 2",
-        "year": "2024",
-        "price": "€89.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "71821",
-        "name": "Cole's Titan Dragon Mech",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-71821-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-71821-1_large-1.jpg",
-        "pieces": "1,055",
-        "minifigs": "1",
-        "availability": "Mid 2026",
-        "theme": "Ninjago",
-        "subtheme": "Dragons Rising Season 2",
-        "year": "2024",
-        "price": "€99.99",
-        "retail": "Available at retail"
-    },
-    {
         "id": "71780",
         "name": "Kai's Ninja Race Car EVO",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-71780-1_large.jpg",
@@ -854,20 +826,6 @@
         "retail": "Available at retail"
     },
     {
-        "id": "76999",
-        "name": "Super Sonic Vs. Egg Drillster",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-76999-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76999-1_large-1.jpg",
-        "pieces": "590",
-        "minifigs": "7",
-        "availability": "Mid 2026",
-        "theme": "Sonic the Hedgehog",
-        "subtheme": "Modern Games",
-        "year": "2024",
-        "price": "€79.99",
-        "retail": "Available at retail"
-    },
-    {
         "id": "76917",
         "name": "Nissan Skyline GT-R",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-76917-1_large.jpg",
@@ -879,20 +837,6 @@
         "subtheme": "Nissan",
         "year": "2023",
         "price": "€24.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "76925",
-        "name": "Aston Martin F1 Safety Car & AMR23",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-76925-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76925-1_large-1.jpg",
-        "pieces": "564",
-        "minifigs": "2",
-        "availability": "Mid 2026",
-        "theme": "Speed Champions",
-        "subtheme": "Aston Martin",
-        "year": "2024",
-        "price": "€49.99",
         "retail": "Available at retail"
     },
     {

@@ -24,7 +24,7 @@
         "theme": "Disney",
         "subtheme": "None",
         "year": "2026",
-        "price": "€131.99",
+        "price": "~€131.99",
         "retail": "Expected 1 March 2026"
     },
     {
@@ -38,7 +38,7 @@
         "theme": "Disney",
         "subtheme": "None",
         "year": "2026",
-        "price": "€131.99",
+        "price": "~€131.99",
         "retail": "Expected 1 April 2026"
     },
     {
@@ -48,12 +48,12 @@
         "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
         "pieces": "",
         "minifigs": "",
-        "availability": "Rumored",
+        "availability": "Retired",
         "theme": "Exclusive",
         "subtheme": "LEGO internal",
         "year": "2026",
-        "price": "",
-        "retail": ""
+        "retail": "",
+        "price": ""
     },
     {
         "id": "30724",
@@ -124,48 +124,6 @@
         "year": "2026",
         "price": "€3.99",
         "retail": "Expected 1 February 2026"
-    },
-    {
-        "id": "72151",
-        "name": "Eevee",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
-        "pieces": "587",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Pokémon",
-        "subtheme": "None",
-        "year": "2026",
-        "price": "€59.99",
-        "retail": "Expected 27 February 2026"
-    },
-    {
-        "id": "72152",
-        "name": "Pikachu and Pokeball",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
-        "pieces": "2,050",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Pokémon",
-        "subtheme": "None",
-        "year": "2026",
-        "price": "€199.99",
-        "retail": "Expected 27 February 2026"
-    },
-    {
-        "id": "72153",
-        "name": "Bulbasaur, Squirtle & Charmander",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
-        "pieces": "6,838",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Pokémon",
-        "subtheme": "None",
-        "year": "2026",
-        "price": "€571.99",
-        "retail": "Expected 27 February 2026"
     },
     {
         "id": "77259",
@@ -290,7 +248,7 @@
         "theme": "The Legend of Zelda",
         "subtheme": "Ocarina of Time",
         "year": "2026",
-        "price": "",
-        "retail": "Expected 1 March 2026"
+        "retail": "Expected 1 March 2026",
+        "price": ""
     }
 ]
