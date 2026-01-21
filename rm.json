@@ -1,19 +1,5 @@
 [
     {
-        "id": "30716",
-        "name": "Cute Easter Bunny",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-30716-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-30716-1_large-1.jpg",
-        "pieces": "66",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Creator",
-        "subtheme": "Seasonal",
-        "year": "2026",
-        "price": "€3.99",
-        "retail": "Expected 1 March 2026"
-    },
-    {
         "id": "43300",
         "name": "Winnie the Pooh",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
@@ -54,34 +40,6 @@
         "year": "2026",
         "retail": "",
         "price": ""
-    },
-    {
-        "id": "30724",
-        "name": "Dumbledore's Office with Harry",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-30724-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-30724-1_large-1.jpg",
-        "pieces": "42",
-        "minifigs": "1",
-        "availability": "Rumored",
-        "theme": "Harry Potter",
-        "subtheme": "None",
-        "year": "2026",
-        "price": "€399.00",
-        "retail": "Expected 1 February 2026"
-    },
-    {
-        "id": "11384",
-        "name": "Golden Retriever Puppy",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
-        "pieces": "2,098",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Icons",
-        "subtheme": "None",
-        "year": "2026",
-        "price": "€139.99",
-        "retail": "Expected 1 February 2026"
     },
     {
         "id": "11376",
@@ -236,19 +194,5 @@
         "year": "2026",
         "price": "€49.99",
         "retail": "Expected 1 March 2026"
-    },
-    {
-        "id": "77093",
-        "name": "Ganondorf Diorama",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
-        "pieces": "1,003",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "The Legend of Zelda",
-        "subtheme": "Ocarina of Time",
-        "year": "2026",
-        "retail": "Expected 1 March 2026",
-        "price": ""
     }
 ]
