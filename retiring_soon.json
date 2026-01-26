@@ -10,7 +10,7 @@
         "theme": "Animal Crossing",
         "subtheme": "None",
         "year": "2025",
-        "price": "€9.99",
+        "price": "€9,99",
         "retail": "Available at retail"
     },
     {
@@ -24,7 +24,7 @@
         "theme": "Animal Crossing",
         "subtheme": "None",
         "year": "2025",
-        "price": "€29.99",
+        "price": "€29,99",
         "retail": "Available at retail"
     },
     {
@@ -38,7 +38,7 @@
         "theme": "City",
         "subtheme": "Fire",
         "year": "2023",
-        "price": "€19.99",
+        "price": "€19,99",
         "retail": "Available at retail"
     },
     {
@@ -52,7 +52,7 @@
         "theme": "City",
         "subtheme": "Space",
         "year": "2024",
-        "price": "€19.99",
+        "price": "€19,99",
         "retail": "Available at retail"
     },
     {
@@ -66,7 +66,7 @@
         "theme": "City",
         "subtheme": "Great Vehicles",
         "year": "2025",
-        "price": "€19.99",
+        "price": "€19,99",
         "retail": "Available at retail"
     },
     {
@@ -80,7 +80,7 @@
         "theme": "City",
         "subtheme": "Police",
         "year": "2022",
-        "price": "€64.99",
+        "price": "€64,99",
         "retail": "Available at retail"
     },
     {
@@ -94,7 +94,7 @@
         "theme": "City",
         "subtheme": "Police",
         "year": "2022",
-        "price": "€9.99",
+        "price": "€9,99",
         "retail": "Available at retail"
     },
     {
@@ -108,7 +108,7 @@
         "theme": "City",
         "subtheme": "Arctic",
         "year": "2023",
-        "price": "€149.99",
+        "price": "€149,99",
         "retail": "Available at retail"
     },
     {
@@ -122,7 +122,7 @@
         "theme": "City",
         "subtheme": "Airport",
         "year": "2023",
-        "price": "€99.99",
+        "price": "€99,99",
         "retail": "Available at retail"
     },
     {
@@ -136,7 +136,7 @@
         "theme": "City",
         "subtheme": "Space",
         "year": "2024",
-        "price": "€3.99",
+        "price": "€3,99",
         "retail": "Available at retail"
     },
     {
@@ -150,7 +150,7 @@
         "theme": "City",
         "subtheme": "Racing",
         "year": "2024",
-        "price": "€9.99",
+        "price": "€9,99",
         "retail": "Available at retail"
     },
     {
@@ -164,7 +164,7 @@
         "theme": "City",
         "subtheme": "Racing",
         "year": "2024",
-        "price": "€14.99",
+        "price": "€14,99",
         "retail": "Available at retail"
     },
     {
@@ -178,7 +178,7 @@
         "theme": "City",
         "subtheme": "Traffic",
         "year": "2024",
-        "price": "€19.99",
+        "price": "€19,99",
         "retail": "Available at retail"
     },
     {
@@ -192,7 +192,7 @@
         "theme": "City",
         "subtheme": "Fire",
         "year": "2024",
-        "price": "€9.99",
+        "price": "€9,99",
         "retail": "Available at retail"
     },
     {
@@ -206,7 +206,7 @@
         "theme": "City",
         "subtheme": "Fire",
         "year": "2024",
-        "price": "€79.99",
+        "price": "€79,99",
         "retail": "Available at retail"
     },
     {
@@ -220,7 +220,7 @@
         "theme": "City",
         "subtheme": "Police",
         "year": "2024",
-        "price": "€19.99",
+        "price": "€19,99",
         "retail": "Available at retail"
     },
     {
@@ -234,7 +234,63 @@
         "theme": "City",
         "subtheme": "Police",
         "year": "2024",
-        "price": "€99.99",
+        "price": "€99,99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "60443",
+        "name": "F1 Pit Stop & Pit Crew with Ferrari Car",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-60443-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-60443-1_large-1.jpg",
+        "pieces": "322",
+        "minifigs": "5",
+        "availability": "Mid 2026",
+        "theme": "City",
+        "subtheme": "Formula 1",
+        "year": "2025",
+        "price": "€29,99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "60445",
+        "name": "F1 Truck with RB20 & AMR24 F1 Cars",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-60445-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-60445-1_large-1.jpg",
+        "pieces": "1,068",
+        "minifigs": "5",
+        "availability": "Mid 2026",
+        "theme": "City",
+        "subtheme": "Formula 1",
+        "year": "2025",
+        "price": "€99,99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "60442",
+        "name": "Driver with McLaren Race Car",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-60442-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-60442-1_large-1.jpg",
+        "pieces": "86",
+        "minifigs": "1",
+        "availability": "Mid 2026",
+        "theme": "City",
+        "subtheme": "Formula 1",
+        "year": "2025",
+        "price": "€12,99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "60464",
+        "name": "F1 Williams Racing & Haas F1 Race Cars",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-60464-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-60464-1_large-1.jpg",
+        "pieces": "92",
+        "minifigs": "2",
+        "availability": "Mid 2026",
+        "theme": "City",
+        "subtheme": "Formula 1",
+        "year": "2025",
+        "price": "€19,99",
         "retail": "Available at retail"
     },
     {
@@ -248,7 +304,7 @@
         "theme": "Creator",
         "subtheme": "Postcard",
         "year": "2022",
-        "price": "€14.99",
+        "price": "€14,99",
         "retail": "Available at retail"
     },
     {
@@ -262,7 +318,7 @@
         "theme": "DC Comics Super Heroes",
         "subtheme": "Classic Batman TV Series",
         "year": "2024",
-        "price": "€149.99",
+        "price": "€149,99",
         "retail": "Available at retail"
     },
     {
@@ -276,7 +332,7 @@
         "theme": "Disney",
         "subtheme": "Encanto",
         "year": "2024",
-        "price": "€39.99",
+        "price": "€39,99",
         "retail": "Available at retail"
     },
     {
@@ -290,7 +346,7 @@
         "theme": "Disney",
         "subtheme": "Moana 2",
         "year": "2025",
-        "price": "€19.99",
+        "price": "€19,99",
         "retail": "Available at retail"
     },
     {
@@ -304,7 +360,7 @@
         "theme": "Disney",
         "subtheme": "Disney Parks",
         "year": "2021",
-        "price": "€39.99",
+        "price": "€39,99",
         "retail": "Available at retail"
     },
     {
@@ -318,7 +374,7 @@
         "theme": "Disney",
         "subtheme": "Disney 100",
         "year": "2023",
-        "price": "€54.99",
+        "price": "€54,99",
         "retail": "Available at retail"
     },
     {
@@ -332,7 +388,7 @@
         "theme": "Disney",
         "subtheme": "The Little Mermaid",
         "year": "2024",
-        "price": "€39.99",
+        "price": "€39,99",
         "retail": "Available at retail"
     },
     {
@@ -346,7 +402,7 @@
         "theme": "DREAMZzz",
         "subtheme": "Season 2 Night of the Never Witch",
         "year": "2024",
-        "price": "€4.99",
+        "price": "€4,99",
         "retail": "Available at retail"
     },
     {
@@ -360,7 +416,7 @@
         "theme": "Friends",
         "subtheme": "None",
         "year": "2025",
-        "price": "€17.99",
+        "price": "€17,99",
         "retail": "Available at retail"
     },
     {
@@ -374,7 +430,7 @@
         "theme": "Friends",
         "subtheme": "Vet",
         "year": "2025",
-        "price": "€69.99",
+        "price": "€69,99",
         "retail": "Available at retail"
     },
     {
@@ -388,7 +444,7 @@
         "theme": "Gabby's Dollhouse",
         "subtheme": "None",
         "year": "2023",
-        "price": "€79.99",
+        "price": "€79,99",
         "retail": "Available at retail"
     },
     {
@@ -402,7 +458,7 @@
         "theme": "Harry Potter",
         "subtheme": "Characters Sculptures",
         "year": "2024",
-        "price": "€99.99",
+        "price": "€99,99",
         "retail": "Available at retail"
     },
     {
@@ -416,7 +472,7 @@
         "theme": "Harry Potter",
         "subtheme": "Philosopher's Stone",
         "year": "2025",
-        "price": "€79.99",
+        "price": "€79,99",
         "retail": "Available at retail"
     },
     {
@@ -430,7 +486,7 @@
         "theme": "Harry Potter",
         "subtheme": "None",
         "year": "2018",
-        "price": "€469.99",
+        "price": "€469,99",
         "retail": "Available at retail"
     },
     {
@@ -444,7 +500,7 @@
         "theme": "Harry Potter",
         "subtheme": "None",
         "year": "2023",
-        "price": "€169.99",
+        "price": "€169,99",
         "retail": "Available at retail"
     },
     {
@@ -458,7 +514,7 @@
         "theme": "Harry Potter",
         "subtheme": "None",
         "year": "2023",
-        "price": "€429.99",
+        "price": "€429,99",
         "retail": "Available at retail"
     },
     {
@@ -472,7 +528,7 @@
         "theme": "Icons",
         "subtheme": "Licensed",
         "year": "2023",
-        "price": "€269.99",
+        "price": "€269,99",
         "retail": "Available at retail"
     },
     {
@@ -486,7 +542,7 @@
         "theme": "Icons",
         "subtheme": "Space",
         "year": "2025",
-        "price": "€99.99",
+        "price": "€99,99",
         "retail": "Available at retail"
     },
     {
@@ -500,7 +556,7 @@
         "theme": "Icons",
         "subtheme": "Licensed",
         "year": "2022",
-        "price": "€199.99",
+        "price": "€199,99",
         "retail": "Available at retail"
     },
     {
@@ -514,7 +570,7 @@
         "theme": "Icons",
         "subtheme": "Licensed",
         "year": "2023",
-        "price": "€499.99",
+        "price": "€499,99",
         "retail": "Available at retail"
     },
     {
@@ -528,7 +584,7 @@
         "theme": "Icons",
         "subtheme": "Licensed",
         "year": "2024",
-        "price": "€164.99",
+        "price": "€164,99",
         "retail": "Available at retail"
     },
     {
@@ -542,7 +598,7 @@
         "theme": "Ideas",
         "subtheme": "Licensed",
         "year": "2021",
-        "price": "€299.99",
+        "price": "€299,99",
         "retail": "Available at retail"
     },
     {
@@ -556,7 +612,7 @@
         "theme": "Ideas",
         "subtheme": "Licensed",
         "year": "2022",
-        "price": "€169.99",
+        "price": "€169,99",
         "retail": "Available at retail"
     },
     {
@@ -570,7 +626,7 @@
         "theme": "Marvel Super Heroes",
         "subtheme": "Spider-Man",
         "year": "2023",
-        "price": "€9.99",
+        "price": "€9,99",
         "retail": "Available at retail"
     },
     {
@@ -584,7 +640,7 @@
         "theme": "Marvel Super Heroes",
         "subtheme": "Avengers",
         "year": "2025",
-        "price": "€14.99",
+        "price": "€14,99",
         "retail": "Available at retail"
     },
     {
@@ -598,7 +654,7 @@
         "theme": "Marvel Super Heroes",
         "subtheme": "Spider-Man",
         "year": "2025",
-        "price": "€14.99",
+        "price": "€14,99",
         "retail": "Available at retail"
     },
     {
@@ -612,7 +668,7 @@
         "theme": "Marvel Super Heroes",
         "subtheme": "Avengers",
         "year": "2023",
-        "price": "€499.99",
+        "price": "€499,99",
         "retail": "Available at retail"
     },
     {
@@ -626,7 +682,7 @@
         "theme": "Marvel Super Heroes",
         "subtheme": "Spidey and His Amazing Friends",
         "year": "2024",
-        "price": "€9.99",
+        "price": "€9,99",
         "retail": "Available at retail"
     },
     {
@@ -640,7 +696,7 @@
         "theme": "Minecraft",
         "subtheme": "Minifig-scale",
         "year": "2023",
-        "price": "€19.99",
+        "price": "€19,99",
         "retail": "Available at retail"
     },
     {
@@ -654,7 +710,7 @@
         "theme": "Monkie Kid",
         "subtheme": "Season 4",
         "year": "2023",
-        "price": "€139.99",
+        "price": "€139,99",
         "retail": "Available at retail"
     },
     {
@@ -668,7 +724,7 @@
         "theme": "Monkie Kid",
         "subtheme": "Season 4",
         "year": "2023",
-        "price": "€19.99",
+        "price": "€19,99",
         "retail": "Available at retail"
     },
     {
@@ -682,7 +738,7 @@
         "theme": "Monkie Kid",
         "subtheme": "Season 5",
         "year": "2024",
-        "price": "€179.99",
+        "price": "€179,99",
         "retail": "Available at retail"
     },
     {
@@ -696,7 +752,7 @@
         "theme": "Monkie Kid",
         "subtheme": "Season 5",
         "year": "2024",
-        "price": "€44.99",
+        "price": "€44,99",
         "retail": "Available at retail"
     },
     {
@@ -710,7 +766,7 @@
         "theme": "Monkie Kid",
         "subtheme": "Season 5",
         "year": "2024",
-        "price": "€69.99",
+        "price": "€69,99",
         "retail": "Available at retail"
     },
     {
@@ -724,7 +780,7 @@
         "theme": "Monkie Kid",
         "subtheme": "Season 5",
         "year": "2024",
-        "price": "€84.99",
+        "price": "€84,99",
         "retail": "Available at retail"
     },
     {
@@ -738,7 +794,7 @@
         "theme": "Monkie Kid",
         "subtheme": "Season 5",
         "year": "2024",
-        "price": "€109.99",
+        "price": "€109,99",
         "retail": "Available at retail"
     },
     {
@@ -752,7 +808,7 @@
         "theme": "Monkie Kid",
         "subtheme": "Season 5",
         "year": "2024",
-        "price": "€139.99",
+        "price": "€139,99",
         "retail": "Available at retail"
     },
     {
@@ -766,7 +822,7 @@
         "theme": "Ninjago",
         "subtheme": "Dragons Rising Season 2",
         "year": "2024",
-        "price": "€29.99",
+        "price": "€29,99",
         "retail": "Available at retail"
     },
     {
@@ -780,7 +836,7 @@
         "theme": "Ninjago",
         "subtheme": "Dragons Rising Season 2",
         "year": "2024",
-        "price": "€49.99",
+        "price": "€49,99",
         "retail": "Available at retail"
     },
     {
@@ -794,7 +850,7 @@
         "theme": "Ninjago",
         "subtheme": "Core",
         "year": "2023",
-        "price": "€9.99",
+        "price": "€9,99",
         "retail": "Available at retail"
     },
     {
@@ -808,7 +864,7 @@
         "theme": "Seasonal",
         "subtheme": "Halloween",
         "year": "2024",
-        "price": "€14.99",
+        "price": "€14,99",
         "retail": "Available at retail"
     },
     {
@@ -822,7 +878,7 @@
         "theme": "Seasonal",
         "subtheme": "Christmas",
         "year": "2024",
-        "price": "€19.99",
+        "price": "€19,99",
         "retail": "Available at retail"
     },
     {
@@ -836,7 +892,7 @@
         "theme": "Speed Champions",
         "subtheme": "Nissan",
         "year": "2023",
-        "price": "€24.99",
+        "price": "€24,99",
         "retail": "Available at retail"
     },
     {
@@ -850,7 +906,7 @@
         "theme": "Speed Champions",
         "subtheme": "Ferrari",
         "year": "2024",
-        "price": "€26.99",
+        "price": "€26,99",
         "retail": "Available at retail"
     },
     {
@@ -864,7 +920,7 @@
         "theme": "Speed Champions",
         "subtheme": "McLaren",
         "year": "2024",
-        "price": "€26.99",
+        "price": "€26,99",
         "retail": "Available at retail"
     },
     {
@@ -878,7 +934,7 @@
         "theme": "Star Wars",
         "subtheme": "Ultimate Collector Series",
         "year": "2023",
-        "price": "€239.99",
+        "price": "€239,99",
         "retail": "Available at retail"
     },
     {
@@ -892,7 +948,7 @@
         "theme": "Star Wars",
         "subtheme": "Ahsoka",
         "year": "2023",
-        "price": "€169.99",
+        "price": "€169,99",
         "retail": "Available at retail"
     },
     {
@@ -906,7 +962,7 @@
         "theme": "Star Wars",
         "subtheme": "Episode I",
         "year": "2024",
-        "price": "€64.99",
+        "price": "€64,99",
         "retail": "Available at retail"
     },
     {
@@ -920,7 +976,7 @@
         "theme": "Star Wars",
         "subtheme": "The Mandalorian",
         "year": "2024",
-        "price": "€21.99",
+        "price": "€21,99",
         "retail": "Available at retail"
     },
     {
@@ -934,7 +990,7 @@
         "theme": "Star Wars",
         "subtheme": "Ultimate Collector Series",
         "year": "2017",
-        "price": "€849.99",
+        "price": "€849,99",
         "retail": "Available at retail"
     },
     {
@@ -948,7 +1004,7 @@
         "theme": "Star Wars",
         "subtheme": "The Book of Boba Fett",
         "year": "2022",
-        "price": "€64.99",
+        "price": "€64,99",
         "retail": "Available at retail"
     },
     {
@@ -962,7 +1018,7 @@
         "theme": "Star Wars",
         "subtheme": "Episode II",
         "year": "2022",
-        "price": "€34.99",
+        "price": "€34,99",
         "retail": "Available at retail"
     },
     {
@@ -976,7 +1032,7 @@
         "theme": "Star Wars",
         "subtheme": "Episode III",
         "year": "2022",
-        "price": "€139.99",
+        "price": "€139,99",
         "retail": "Available at retail"
     },
     {
@@ -990,7 +1046,7 @@
         "theme": "Star Wars",
         "subtheme": "Episode VI",
         "year": "2023",
-        "price": "€64.99",
+        "price": "€64,99",
         "retail": "Available at retail"
     },
     {
@@ -1004,7 +1060,7 @@
         "theme": "Star Wars",
         "subtheme": "The Clone Wars",
         "year": "2023",
-        "price": "€19.99",
+        "price": "€19,99",
         "retail": "Available at retail"
     },
     {
@@ -1018,7 +1074,7 @@
         "theme": "Star Wars",
         "subtheme": "The Clone Wars",
         "year": "2024",
-        "price": "€29.99",
+        "price": "€29,99",
         "retail": "Available at retail"
     },
     {
@@ -1032,7 +1088,7 @@
         "theme": "Star Wars",
         "subtheme": "None",
         "year": "2024",
-        "price": "€99.99",
+        "price": "€99,99",
         "retail": "Available at retail"
     },
     {
@@ -1046,7 +1102,7 @@
         "theme": "Star Wars",
         "subtheme": "MicroFighters",
         "year": "2024",
-        "price": "€12.99",
+        "price": "€12,99",
         "retail": "Available at retail"
     },
     {
@@ -1060,7 +1116,7 @@
         "theme": "Star Wars",
         "subtheme": "Rebuild the Galaxy",
         "year": "2024",
-        "price": "€39.99",
+        "price": "€39,99",
         "retail": "Available at retail"
     },
     {
@@ -1074,7 +1130,7 @@
         "theme": "Star Wars",
         "subtheme": "Rebuild the Galaxy",
         "year": "2024",
-        "price": "€179.99",
+        "price": "€179,99",
         "retail": "Available at retail"
     },
     {
@@ -1088,7 +1144,7 @@
         "theme": "Star Wars",
         "subtheme": "None",
         "year": "2024",
-        "price": "€139.99",
+        "price": "€139,99",
         "retail": "Available at retail"
     },
     {
@@ -1102,7 +1158,7 @@
         "theme": "Super Mario",
         "subtheme": "Starter Course",
         "year": "2024",
-        "price": "€49.99",
+        "price": "€49,99",
         "retail": "Available at retail"
     },
     {
@@ -1116,7 +1172,7 @@
         "theme": "Wicked",
         "subtheme": "Part One",
         "year": "2024",
-        "price": "€29.99",
+        "price": "€29,99",
         "retail": "Available at retail"
     }
 ]

@@ -10,7 +10,7 @@
         "theme": "Disney",
         "subtheme": "None",
         "year": "2026",
-        "price": "~€131.99",
+        "price": "~€131,99",
         "retail": "Expected 1 March 2026"
     },
     {
@@ -24,7 +24,7 @@
         "theme": "Disney",
         "subtheme": "None",
         "year": "2026",
-        "price": "~€131.99",
+        "price": "~€131,99",
         "retail": "Expected 1 April 2026"
     },
     {
@@ -52,7 +52,7 @@
         "theme": "Icons",
         "subtheme": "None",
         "year": "2026",
-        "price": "€129.99",
+        "price": "€129,99",
         "retail": "Expected 1 March 2026"
     },
     {
@@ -66,36 +66,36 @@
         "theme": "Icons",
         "subtheme": "Formula 1",
         "year": "2026",
-        "price": "€89.99",
+        "price": "€89,99",
         "retail": "Expected 1 March 2026"
     },
     {
-        "id": "30725",
-        "name": "Spider-Man vs Anti-Venom Heist",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-30725-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-30725-1_large-1.jpg",
-        "pieces": "31",
-        "minifigs": "2",
-        "availability": "Rumored",
-        "theme": "Marvel Super Heroes",
-        "subtheme": "Spider-Man",
-        "year": "2026",
-        "price": "€3.99",
-        "retail": "Expected 1 February 2026"
-    },
-    {
-        "id": "77259",
-        "name": "Audi F1 Race Car",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
-        "pieces": "215",
+        "id": "40973",
+        "name": "Crocs Multi",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-40973-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40973-1_large-1.jpg",
+        "pieces": "19",
         "minifigs": "",
         "availability": "Rumored",
-        "theme": "Speed Champions",
-        "subtheme": "Formula 1",
+        "theme": "Promotional",
+        "subtheme": "Minifigure",
         "year": "2026",
-        "price": "€27.99",
-        "retail": "Expected 1 March 2026"
+        "retail": "Expected 16 February 2026",
+        "price": ""
+    },
+    {
+        "id": "40906",
+        "name": "Restaurants of the World Japan",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-40906-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40906-1_large-1.jpg",
+        "pieces": "289",
+        "minifigs": "1",
+        "availability": "Rumored",
+        "theme": "Promotional",
+        "subtheme": "Restaurants of the World",
+        "year": "2026",
+        "retail": "Expected 27 February 2026",
+        "price": ""
     },
     {
         "id": "75422",
@@ -108,7 +108,7 @@
         "theme": "Star Wars",
         "subtheme": "SMART Play",
         "year": "2026",
-        "price": "€69.99",
+        "price": "€69,99",
         "retail": "Expected 1 March 2026"
     },
     {
@@ -122,7 +122,7 @@
         "theme": "Star Wars",
         "subtheme": "SMART Play",
         "year": "2026",
-        "price": "€99.99",
+        "price": "€99,99",
         "retail": "Expected 1 March 2026"
     },
     {
@@ -136,7 +136,7 @@
         "theme": "Star Wars",
         "subtheme": "SMART Play",
         "year": "2026",
-        "price": "€79.99",
+        "price": "€79,99",
         "retail": "Expected 1 March 2026"
     },
     {
@@ -150,7 +150,7 @@
         "theme": "Star Wars",
         "subtheme": "SMART Play",
         "year": "2026",
-        "price": "€49.99",
+        "price": "€49,99",
         "retail": "Expected 1 March 2026"
     },
     {
@@ -164,7 +164,7 @@
         "theme": "Star Wars",
         "subtheme": "SMART Play",
         "year": "2026",
-        "price": "€39.99",
+        "price": "€39,99",
         "retail": "Expected 1 March 2026"
     },
     {
@@ -178,7 +178,7 @@
         "theme": "Star Wars",
         "subtheme": "None",
         "year": "2026",
-        "price": "€59.99",
+        "price": "€59,99",
         "retail": "Expected 1 March 2026"
     },
     {
@@ -192,7 +192,21 @@
         "theme": "Star Wars",
         "subtheme": "None",
         "year": "2026",
-        "price": "€49.99",
+        "price": "€49,99",
         "retail": "Expected 1 March 2026"
+    },
+    {
+        "id": "72050",
+        "name": "Mario Kart - Luigi & Kart",
+        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
+        "pieces": "",
+        "minifigs": "",
+        "availability": "Rumored",
+        "theme": "Super Mario",
+        "subtheme": "Mario Kart",
+        "year": "2026",
+        "retail": "Expected 1 April 2026",
+        "price": ""
     }
 ]
