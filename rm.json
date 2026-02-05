@@ -10,7 +10,7 @@
         "theme": "Disney",
         "subtheme": "None",
         "year": "2026",
-        "price": "~€149.99",
+        "price": "€149.99",
         "retail": "Expected 1 April 2026"
     },
     {
@@ -20,12 +20,12 @@
         "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
         "pieces": "",
         "minifigs": "",
-        "availability": "Retired",
+        "availability": "Rumored",
         "theme": "Exclusive",
         "subtheme": "LEGO internal",
         "year": "2026",
-        "retail": "",
-        "price": ""
+        "price": "",
+        "retail": ""
     },
     {
         "id": "11376",
@@ -94,7 +94,7 @@
         "theme": "Ninjago",
         "subtheme": "None",
         "year": "2026",
-        "price": "~€69.99",
+        "price": "€69.99",
         "retail": "Expected 1 June 2026"
     },
     {
@@ -150,8 +150,8 @@
         "theme": "Ninjago",
         "subtheme": "None",
         "year": "2026",
-        "retail": "Expected 1 June 2026",
-        "price": ""
+        "price": "",
+        "retail": "Expected 1 June 2026"
     },
     {
         "id": "71872",
@@ -164,7 +164,7 @@
         "theme": "Ninjago",
         "subtheme": "None",
         "year": "2026",
-        "price": "~€199.99",
+        "price": "€199.99",
         "retail": "Expected 1 June 2026"
     },
     {
@@ -174,12 +174,12 @@
         "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
         "pieces": "151",
         "minifigs": "2",
-        "availability": "Retired",
+        "availability": "Rumored",
         "theme": "Promotional",
         "subtheme": "Miscellaneous",
         "year": "2026",
-        "retail": "",
-        "price": ""
+        "price": "",
+        "retail": ""
     },
     {
         "id": "40973",
@@ -192,8 +192,8 @@
         "theme": "Promotional",
         "subtheme": "Minifigure",
         "year": "2026",
-        "retail": "Expected 16 February 2026",
-        "price": ""
+        "price": "",
+        "retail": "Expected 16 February 2026"
     },
     {
         "id": "75439",
@@ -276,8 +276,8 @@
         "theme": "Super Mario",
         "subtheme": "Mario Kart",
         "year": "2026",
-        "retail": "Expected 1 April 2026",
-        "price": ""
+        "price": "",
+        "retail": "Expected 1 April 2026"
     },
     {
         "id": "42228",
