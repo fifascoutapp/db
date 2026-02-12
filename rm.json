@@ -28,20 +28,6 @@
         "retail": ""
     },
     {
-        "id": "11376",
-        "name": "Ford Model T",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-11376-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-11376-1_large-1.jpg",
-        "pieces": "1,060",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Icons",
-        "subtheme": "Vehicles",
-        "year": "2026",
-        "price": "€129.99",
-        "retail": "Expected 1 March 2026"
-    },
-    {
         "id": "72537",
         "name": "Derpy & Sussie",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
@@ -85,7 +71,7 @@
     },
     {
         "id": "71864",
-        "name": "{?Kai and Cole’s Combinable Vehicles",
+        "name": "Kai and Cole’s Combinable Vehicles",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
         "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
         "pieces": "394",
