@@ -10,7 +10,7 @@
         "theme": "Disney",
         "subtheme": "None",
         "year": "2026",
-        "price": "€149.99",
+        "price": "~€149.99",
         "retail": "Expected 1 April 2026"
     },
     {
@@ -20,12 +20,12 @@
         "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
         "pieces": "",
         "minifigs": "",
-        "availability": "Rumored",
+        "availability": "Retired",
         "theme": "Exclusive",
         "subtheme": "LEGO internal",
         "year": "2026",
-        "price": "",
-        "retail": ""
+        "retail": "",
+        "price": ""
     },
     {
         "id": "72537",
@@ -38,7 +38,7 @@
         "theme": "KPop Demon Hunters",
         "subtheme": "None",
         "year": "2026",
-        "price": "€69.99",
+        "price": "~€69.99",
         "retail": "Expected 1 August 2026"
     },
     {
@@ -94,7 +94,7 @@
         "theme": "Ninjago",
         "subtheme": "None",
         "year": "2026",
-        "price": "€69.99",
+        "price": "~€69.99",
         "retail": "Expected 1 June 2026"
     },
     {
@@ -150,8 +150,8 @@
         "theme": "Ninjago",
         "subtheme": "None",
         "year": "2026",
-        "price": "",
-        "retail": "Expected 1 June 2026"
+        "retail": "Expected 1 June 2026",
+        "price": ""
     },
     {
         "id": "71872",
@@ -164,7 +164,7 @@
         "theme": "Ninjago",
         "subtheme": "None",
         "year": "2026",
-        "price": "€199.99",
+        "price": "~€199.99",
         "retail": "Expected 1 June 2026"
     },
     {
@@ -174,12 +174,12 @@
         "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
         "pieces": "151",
         "minifigs": "2",
-        "availability": "Rumored",
+        "availability": "Retired",
         "theme": "Promotional",
         "subtheme": "Miscellaneous",
         "year": "2026",
-        "price": "",
-        "retail": ""
+        "retail": "",
+        "price": ""
     },
     {
         "id": "40973",
@@ -192,8 +192,8 @@
         "theme": "Promotional",
         "subtheme": "Minifigure",
         "year": "2026",
-        "price": "",
-        "retail": "Expected 16 February 2026"
+        "retail": "Expected 16 February 2026",
+        "price": ""
     },
     {
         "id": "75439",
@@ -224,20 +224,6 @@
         "retail": "Expected 1 March 2026"
     },
     {
-        "id": "75447",
-        "name": "Razor Crest",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
-        "pieces": "930",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Star Wars",
-        "subtheme": "The Mandalorian",
-        "year": "2026",
-        "price": "€149.99",
-        "retail": "Expected 1 May 2026"
-    },
-    {
         "id": "75446",
         "name": "Grogu",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
@@ -246,23 +232,9 @@
         "minifigs": "",
         "availability": "Rumored",
         "theme": "Star Wars",
-        "subtheme": "The Mandalorian",
+        "subtheme": "The Mandalorian and Grogu",
         "year": "2026",
         "price": "€129.99",
-        "retail": "Expected 1 May 2026"
-    },
-    {
-        "id": "75445",
-        "name": "Anzellan Starship",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
-        "pieces": "700",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Star Wars",
-        "subtheme": "The Mandalorian",
-        "year": "2026",
-        "price": "€69.99",
         "retail": "Expected 1 May 2026"
     },
     {
@@ -276,8 +248,8 @@
         "theme": "Super Mario",
         "subtheme": "Mario Kart",
         "year": "2026",
-        "price": "",
-        "retail": "Expected 1 April 2026"
+        "retail": "Expected 1 April 2026",
+        "price": ""
     },
     {
         "id": "42228",
