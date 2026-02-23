@@ -1,5 +1,19 @@
 [
     {
+        "id": "30731",
+        "name": "Tom Nook and Flying Present",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-30731-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-30731-1_large-1.jpg",
+        "pieces": "33",
+        "minifigs": "1",
+        "availability": "Rumored",
+        "theme": "Animal Crossing",
+        "subtheme": "Promotional",
+        "year": "2026",
+        "price": "€3.99",
+        "retail": "Expected 1 March 2026"
+    },
+    {
         "id": "43301",
         "name": "Toy Story Slinky Dog Book Nook",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
@@ -10,7 +24,7 @@
         "theme": "Disney",
         "subtheme": "None",
         "year": "2026",
-        "price": "~€149.99",
+        "price": "€149.99",
         "retail": "Expected 1 April 2026"
     },
     {
@@ -20,12 +34,12 @@
         "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
         "pieces": "",
         "minifigs": "",
-        "availability": "Retired",
+        "availability": "Rumored",
         "theme": "Exclusive",
         "subtheme": "LEGO internal",
         "year": "2026",
-        "retail": "",
-        "price": ""
+        "price": "",
+        "retail": ""
     },
     {
         "id": "72537",
@@ -38,7 +52,7 @@
         "theme": "KPop Demon Hunters",
         "subtheme": "None",
         "year": "2026",
-        "price": "~€69.99",
+        "price": "€69.99",
         "retail": "Expected 1 August 2026"
     },
     {
@@ -81,20 +95,6 @@
         "subtheme": "None",
         "year": "2026",
         "price": "€29.99",
-        "retail": "Expected 1 June 2026"
-    },
-    {
-        "id": "71867",
-        "name": "Ninja X-1 Racer – 15th Anniversary Edition",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
-        "pieces": "691",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Ninjago",
-        "subtheme": "None",
-        "year": "2026",
-        "price": "~€69.99",
         "retail": "Expected 1 June 2026"
     },
     {
@@ -150,8 +150,8 @@
         "theme": "Ninjago",
         "subtheme": "None",
         "year": "2026",
-        "retail": "Expected 1 June 2026",
-        "price": ""
+        "price": "",
+        "retail": "Expected 1 June 2026"
     },
     {
         "id": "71872",
@@ -164,7 +164,7 @@
         "theme": "Ninjago",
         "subtheme": "None",
         "year": "2026",
-        "price": "~€199.99",
+        "price": "€199.99",
         "retail": "Expected 1 June 2026"
     },
     {
@@ -174,12 +174,12 @@
         "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
         "pieces": "151",
         "minifigs": "2",
-        "availability": "Retired",
+        "availability": "Rumored",
         "theme": "Promotional",
         "subtheme": "Miscellaneous",
         "year": "2026",
-        "retail": "",
-        "price": ""
+        "price": "",
+        "retail": ""
     },
     {
         "id": "40973",
@@ -191,9 +191,9 @@
         "availability": "Rumored",
         "theme": "Promotional",
         "subtheme": "Minifigure",
-        "year": "2026",
-        "retail": "Expected 16 February 2026",
-        "price": ""
+        "year": "",
+        "price": "",
+        "retail": ""
     },
     {
         "id": "75439",
@@ -224,20 +224,6 @@
         "retail": "Expected 1 March 2026"
     },
     {
-        "id": "75446",
-        "name": "Grogu",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
-        "pieces": "1,200",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Star Wars",
-        "subtheme": "The Mandalorian and Grogu",
-        "year": "2026",
-        "price": "€129.99",
-        "retail": "Expected 1 May 2026"
-    },
-    {
         "id": "72050",
         "name": "Mario Kart - Luigi & Kart",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
@@ -248,35 +234,7 @@
         "theme": "Super Mario",
         "subtheme": "Mario Kart",
         "year": "2026",
-        "retail": "Expected 1 April 2026",
-        "price": ""
-    },
-    {
-        "id": "42228",
-        "name": "McLaren F1 Team MCL39",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-42228-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-42228-1_large-1.jpg",
-        "pieces": "1,675",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Technic",
-        "subtheme": "Licensed",
-        "year": "2026",
-        "price": "€229.99",
-        "retail": "Expected 1 March 2026"
-    },
-    {
-        "id": "30736",
-        "name": "White Seaplane",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-30736-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-30736-1_large-1.jpg",
-        "pieces": "82",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Technic",
-        "subtheme": "None",
-        "year": "2026",
-        "price": "€3.99",
-        "retail": "Expected 1 March 2026"
+        "price": "",
+        "retail": "Expected 1 April 2026"
     }
 ]
