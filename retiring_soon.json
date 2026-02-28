@@ -560,20 +560,6 @@
         "retail": "Available at retail"
     },
     {
-        "id": "40713",
-        "name": "Japan Postcard",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-40713-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40713-1_large-1.jpg",
-        "pieces": "262",
-        "minifigs": "",
-        "availability": "Mid 2026",
-        "theme": "Creator",
-        "subtheme": "Postcard",
-        "year": "2024",
-        "price": "€14.99",
-        "retail": "Available at retail"
-    },
-    {
         "id": "31152",
         "name": "Space Astronaut",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-31152-1_large.jpg",
@@ -599,6 +585,20 @@
         "subtheme": "3 in 1",
         "year": "2024",
         "price": "€9.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "40713",
+        "name": "Japan Postcard",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-40713-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40713-1_large-1.jpg",
+        "pieces": "262",
+        "minifigs": "",
+        "availability": "Mid 2026",
+        "theme": "Creator",
+        "subtheme": "Postcard",
+        "year": "2024",
+        "price": "€14.99",
         "retail": "Available at retail"
     },
     {
@@ -1736,20 +1736,6 @@
         "retail": "Available at retail"
     },
     {
-        "id": "10792",
-        "name": "Drill Spinner Vehicle",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-10792-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-10792-1_large-1.jpg",
-        "pieces": "58",
-        "minifigs": "2",
-        "availability": "Mid 2026",
-        "theme": "Marvel Super Heroes",
-        "subtheme": "Spidey and His Amazing Friends",
-        "year": "2024",
-        "price": "€9.99",
-        "retail": "Available at retail"
-    },
-    {
         "id": "76297",
         "name": "Dancing Groot",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-76297-1_large.jpg",
@@ -1761,20 +1747,6 @@
         "subtheme": "Guardians of the Galaxy",
         "year": "2024",
         "price": "€44.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "21252",
-        "name": "The Armory",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-21252-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-21252-1_large-1.jpg",
-        "pieces": "203",
-        "minifigs": "2",
-        "availability": "Mid 2026",
-        "theme": "Minecraft",
-        "subtheme": "Minifig-scale",
-        "year": "2023",
-        "price": "€19.99",
         "retail": "Available at retail"
     },
     {
@@ -1918,20 +1890,6 @@
         "retail": "Available at retail"
     },
     {
-        "id": "71811",
-        "name": "Arin's Ninja Off-Road Buggy Car",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-71811-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-71811-1_large-1.jpg",
-        "pieces": "267",
-        "minifigs": "4",
-        "availability": "Mid 2026",
-        "theme": "Ninjago",
-        "subtheme": "Dragons Rising Season 2",
-        "year": "2024",
-        "price": "€49.99",
-        "retail": "Available at retail"
-    },
-    {
         "id": "71780",
         "name": "Kai's Ninja Race Car EVO",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-71780-1_large.jpg",
@@ -1943,20 +1901,6 @@
         "subtheme": "Core",
         "year": "2023",
         "price": "€9.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "71814",
-        "name": "Tournament Temple City",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-71814-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-71814-1_large-1.jpg",
-        "pieces": "3,489",
-        "minifigs": "13",
-        "availability": "Mid 2026",
-        "theme": "Ninjago",
-        "subtheme": "Dragons Rising Season 2",
-        "year": "2024",
-        "price": "€249.99",
         "retail": "Available at retail"
     },
     {
@@ -2195,20 +2139,6 @@
         "subtheme": "McLaren",
         "year": "2024",
         "price": "€26.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "75355",
-        "name": "X-wing Starfighter",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-75355-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-75355-1_large-1.jpg",
-        "pieces": "1,949",
-        "minifigs": "2",
-        "availability": "Mid 2026",
-        "theme": "Star Wars",
-        "subtheme": "Ultimate Collector Series",
-        "year": "2023",
-        "price": "€239.99",
         "retail": "Available at retail"
     },
     {
