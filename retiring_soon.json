@@ -518,6 +518,20 @@
         "retail": "Available at retail"
     },
     {
+        "id": "76441",
+        "name": "Hogwarts Castle Dueling Club",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-76441-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76441-1_large-1.jpg",
+        "pieces": "158",
+        "minifigs": "4",
+        "availability": "Mid 2026",
+        "theme": "Harry Potter",
+        "subtheme": "Chamber of Secrets",
+        "year": "2025",
+        "price": "€24.99",
+        "retail": "Available at retail"
+    },
+    {
         "id": "76447",
         "name": "Hogwarts Castle Flying Lessons",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-76447-1_large.jpg",
