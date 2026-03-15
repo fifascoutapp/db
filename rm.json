@@ -1,19 +1,5 @@
 [
     {
-        "id": "30731",
-        "name": "Tom Nook and Flying Present",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-30731-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-30731-1_large-1.jpg",
-        "pieces": "33",
-        "minifigs": "1",
-        "availability": "Rumored",
-        "theme": "Animal Crossing",
-        "subtheme": "Promotional",
-        "year": "",
-        "price": "€3.99",
-        "retail": ""
-    },
-    {
         "id": "43301",
         "name": "Toy Story Slinky Dog Book Nook",
         "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
@@ -40,6 +26,34 @@
         "year": "2026",
         "price": "",
         "retail": ""
+    },
+    {
+        "id": "77984",
+        "name": "Jurassic Park Jeep Wrangler",
+        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
+        "pieces": "1,924",
+        "minifigs": "",
+        "availability": "Rumored",
+        "theme": "Jurassic World",
+        "subtheme": "None",
+        "year": "2026",
+        "price": "€199.99",
+        "retail": "Expected 15 May 2026"
+    },
+    {
+        "id": "77985",
+        "name": "Triceratops Skeleton",
+        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
+        "pieces": "1,154",
+        "minifigs": "",
+        "availability": "Rumored",
+        "theme": "Jurassic World",
+        "subtheme": "None",
+        "year": "2026",
+        "price": "€99.99",
+        "retail": "Expected 1 June 2026"
     },
     {
         "id": "72537",
@@ -205,9 +219,9 @@
         "availability": "Rumored",
         "theme": "Star Wars",
         "subtheme": "None",
-        "year": "",
+        "year": "2026",
         "price": "€59.99",
-        "retail": ""
+        "retail": "Expected 1 May 2026"
     },
     {
         "id": "75438",
@@ -219,22 +233,8 @@
         "availability": "Rumored",
         "theme": "Star Wars",
         "subtheme": "None",
-        "year": "",
-        "price": "€49.99",
-        "retail": ""
-    },
-    {
-        "id": "72050",
-        "name": "Mario Kart - Luigi & Kart",
-        "src": "https://www.brickeconomy.com/resources/images/sets/noimage_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/noimage_large-1.jpg",
-        "pieces": "",
-        "minifigs": "",
-        "availability": "Rumored",
-        "theme": "Super Mario",
-        "subtheme": "Mario Kart",
         "year": "2026",
-        "price": "",
-        "retail": "Expected 1 April 2026"
+        "price": "€49.99",
+        "retail": "Expected 1 May 2026"
     }
 ]
