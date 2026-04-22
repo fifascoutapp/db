@@ -266,34 +266,6 @@
         "retail": "Available at retail"
     },
     {
-        "id": "60443",
-        "name": "F1 Pit Stop & Pit Crew with Ferrari Car",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-60443-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-60443-1_large-1.jpg",
-        "pieces": "322",
-        "minifigs": "5",
-        "availability": "End of 2026",
-        "theme": "City",
-        "subtheme": "Formula 1",
-        "year": "2025",
-        "price": "€29.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "60445",
-        "name": "F1 Truck with RB20 & AMR24 F1 Cars",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-60445-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-60445-1_large-1.jpg",
-        "pieces": "1,068",
-        "minifigs": "5",
-        "availability": "End of 2026",
-        "theme": "City",
-        "subtheme": "Formula 1",
-        "year": "2025",
-        "price": "€99.99",
-        "retail": "Available at retail"
-    },
-    {
         "id": "60442",
         "name": "Driver with McLaren Race Car",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-60442-1_large.jpg",
@@ -319,6 +291,34 @@
         "subtheme": "Formula 1",
         "year": "2025",
         "price": "€19.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "60443",
+        "name": "F1 Pit Stop & Pit Crew with Ferrari Car",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-60443-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-60443-1_large-1.jpg",
+        "pieces": "322",
+        "minifigs": "5",
+        "availability": "End of 2026",
+        "theme": "City",
+        "subtheme": "Formula 1",
+        "year": "2025",
+        "price": "€29.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "60445",
+        "name": "F1 Truck with RB20 & AMR24 F1 Cars",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-60445-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-60445-1_large-1.jpg",
+        "pieces": "1,068",
+        "minifigs": "5",
+        "availability": "End of 2026",
+        "theme": "City",
+        "subtheme": "Formula 1",
+        "year": "2025",
+        "price": "€99.99",
         "retail": "Available at retail"
     },
     {
@@ -490,20 +490,6 @@
         "retail": "Available at retail"
     },
     {
-        "id": "42663",
-        "name": "Friendship Camper Van Adventure",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-42663-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-42663-1_large-1.jpg",
-        "pieces": "778",
-        "minifigs": "3",
-        "availability": "End of 2026",
-        "theme": "Friends",
-        "subtheme": "Great Outdoors",
-        "year": "2025",
-        "price": "€59.99",
-        "retail": "Available at retail"
-    },
-    {
         "id": "30697",
         "name": "Nova's Doghouse Build",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-30697-1_large.jpg",
@@ -515,6 +501,20 @@
         "subtheme": "Pets",
         "year": "2025",
         "price": "€4.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "42663",
+        "name": "Friendship Camper Van Adventure",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-42663-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-42663-1_large-1.jpg",
+        "pieces": "778",
+        "minifigs": "3",
+        "availability": "End of 2026",
+        "theme": "Friends",
+        "subtheme": "Great Outdoors",
+        "year": "2025",
+        "price": "€59.99",
         "retail": "Available at retail"
     },
     {
@@ -1036,6 +1036,20 @@
         "retail": "Available at retail"
     },
     {
+        "id": "71837",
+        "name": "NINJAGO City Workshops",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-71837-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-71837-1_large-1.jpg",
+        "pieces": "3,244",
+        "minifigs": "10",
+        "availability": "End of 2026",
+        "theme": "Ninjago",
+        "subtheme": "Dragons Rising Season 3",
+        "year": "2025",
+        "price": "€249.99",
+        "retail": "Available at retail"
+    },
+    {
         "id": "71832",
         "name": "Thunderfang Dragon of Chaos",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-71832-1_large.jpg",
@@ -1061,20 +1075,6 @@
         "subtheme": "Dragons Rising Season 3",
         "year": "2025",
         "price": "€99.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "71837",
-        "name": "NINJAGO City Workshops",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-71837-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-71837-1_large-1.jpg",
-        "pieces": "3,244",
-        "minifigs": "10",
-        "availability": "End of 2026",
-        "theme": "Ninjago",
-        "subtheme": "Dragons Rising Season 3",
-        "year": "2025",
-        "price": "€249.99",
         "retail": "Available at retail"
     },
     {
@@ -1159,6 +1159,20 @@
         "subtheme": "McLaren",
         "year": "2024",
         "price": "€26.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "66802",
+        "name": "Ultimate Formula 1 Collector's Pack",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-66802-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-66802-1_large-1.jpg",
+        "pieces": "2,601",
+        "minifigs": "10",
+        "availability": "End of 2026",
+        "theme": "Speed Champions",
+        "subtheme": "Formula 1",
+        "year": "2025",
+        "price": "€269.99",
         "retail": "Available at retail"
     },
     {
@@ -1285,34 +1299,6 @@
         "subtheme": "Formula 1",
         "year": "2025",
         "price": "€26.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "66802",
-        "name": "Ultimate Formula 1 Collector's Pack",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-66802-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-66802-1_large-1.jpg",
-        "pieces": "2,601",
-        "minifigs": "10",
-        "availability": "End of 2026",
-        "theme": "Speed Champions",
-        "subtheme": "Formula 1",
-        "year": "2025",
-        "price": "€269.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "75381",
-        "name": "Buildable Droideka",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-75381-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-75381-1_large-1.jpg",
-        "pieces": "583",
-        "minifigs": "1",
-        "availability": "Mid 2026",
-        "theme": "Star Wars",
-        "subtheme": "Episode I",
-        "year": "2024",
-        "price": "€64.99",
         "retail": "Available at retail"
     },
     {
