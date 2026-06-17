@@ -11,7 +11,7 @@
         "year": "2017",
         "availability": "March",
         "price": "€39.99",
-        "retail": "€28.93"
+        "retail": "€30.80"
     },
     {
         "id": "40800",
@@ -25,7 +25,7 @@
         "year": "2025",
         "availability": "April",
         "price": "€9.99",
-        "retail": "€12.75"
+        "retail": "€13.02"
     },
     {
         "id": "40798",
@@ -39,7 +39,7 @@
         "year": "2025",
         "availability": "December 2025",
         "price": "€9.99",
-        "retail": "€14.56"
+        "retail": "€16.85"
     },
     {
         "id": "40748",
@@ -53,7 +53,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€24.99",
-        "retail": "€35.19"
+        "retail": "€39.60"
     },
     {
         "id": "40669",
@@ -67,7 +67,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€9.99",
-        "retail": "€13.18"
+        "retail": "€12.92"
     },
     {
         "id": "40792",
@@ -95,7 +95,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€9.99",
-        "retail": "€14.93"
+        "retail": "€14.68"
     },
     {
         "id": "910063",
@@ -109,7 +109,7 @@
         "year": "2026",
         "availability": "February",
         "price": "€39.99",
-        "retail": "€35.19"
+        "retail": "€70.36"
     },
     {
         "id": "910062",
@@ -123,7 +123,7 @@
         "year": "2026",
         "availability": "February",
         "price": "€199.99",
-        "retail": "€374.00"
+        "retail": "€336.10"
     },
     {
         "id": "910061",
@@ -137,7 +137,7 @@
         "year": "2026",
         "availability": "February",
         "price": "€109.99",
-        "retail": "€242.00"
+        "retail": "€192.39"
     },
     {
         "id": "910060",
@@ -151,7 +151,7 @@
         "year": "2026",
         "availability": "February",
         "price": "€279.99",
-        "retail": "€437.25"
+        "retail": "€426.91"
     },
     {
         "id": "910059",
@@ -165,7 +165,7 @@
         "year": "2026",
         "availability": "February",
         "price": "€349.99",
-        "retail": "€520.13"
+        "retail": "€532.86"
     },
     {
         "id": "60474",
@@ -179,35 +179,7 @@
         "year": "2025",
         "availability": "December 2025",
         "price": "€29.99",
-        "retail": "€38.61"
-    },
-    {
-        "id": "60459",
-        "name": "Airplane vs. Hospital Bed Race Car Pack",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-60459-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-60459-1_large-1.jpg",
-        "pieces": "70",
-        "minifigs": "2",
-        "theme": "City",
-        "subtheme": "Soapbox Racing",
-        "year": "2025",
-        "availability": "December 2025",
-        "price": "€9.99",
-        "retail": "€8.80"
-    },
-    {
-        "id": "60401",
-        "name": "Construction Steamroller",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-60401-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-60401-1_large-1.jpg",
-        "pieces": "78",
-        "minifigs": "1",
-        "theme": "City",
-        "subtheme": "Construction",
-        "year": "2024",
-        "availability": "December 2025",
-        "price": "€9.99",
-        "retail": "€10.56"
+        "retail": "€40.95"
     },
     {
         "id": "11035",
@@ -221,7 +193,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€54.99",
-        "retail": "€59.52"
+        "retail": "€60.70"
     },
     {
         "id": "30716",
@@ -235,21 +207,21 @@
         "year": "2026",
         "availability": "April",
         "price": "€3.99",
-        "retail": "€7.87"
+        "retail": "€8.06"
     },
     {
-        "id": "40650",
-        "name": "Land Rover Classic Defender",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-40650-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40650-1_large-1.jpg",
-        "pieces": "150",
-        "minifigs": "1",
-        "theme": "Creator",
-        "subtheme": "Traffic",
-        "year": "2023",
-        "availability": "December 2025",
-        "price": "€14.99",
-        "retail": "€26.39"
+        "id": "43251",
+        "name": "Antonio's Animal Sanctuary",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-43251-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-43251-1_large-1.jpg",
+        "pieces": "310",
+        "minifigs": "2",
+        "theme": "Disney",
+        "subtheme": "Encanto",
+        "year": "2024",
+        "availability": "January",
+        "price": "€39.99",
+        "retail": "€35.16"
     },
     {
         "id": "43252",
@@ -263,7 +235,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€44.99",
-        "retail": "€65.99"
+        "retail": "€65.24"
     },
     {
         "id": "43246",
@@ -278,20 +250,6 @@
         "availability": "December 2025",
         "price": "€99.99",
         "retail": "€88.00"
-    },
-    {
-        "id": "43254",
-        "name": "Ariel's Crystal Cavern",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-43254-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-43254-1_large-1.jpg",
-        "pieces": "141",
-        "minifigs": "2",
-        "theme": "Disney",
-        "subtheme": "Ariel",
-        "year": "2024",
-        "availability": "December 2025",
-        "price": "€29.99",
-        "retail": "€22.78"
     },
     {
         "id": "71490",
@@ -333,7 +291,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€19.99",
-        "retail": "€17.59"
+        "retail": "€17.60"
     },
     {
         "id": "71481",
@@ -347,21 +305,91 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€39.99",
-        "retail": "€34.39"
+        "retail": "€33.37"
     },
     {
-        "id": "71489",
-        "name": "Cooper's Gaming Controller Jet",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-71489-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-71489-1_large-1.jpg",
-        "pieces": "266",
-        "minifigs": "1",
-        "theme": "DREAMZzz",
-        "subtheme": "Season 3",
-        "year": "2025",
-        "availability": "December 2025",
+        "id": "10434",
+        "name": "Peppa Pig Supermarket",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-10434-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-10434-1_large-1.jpg",
+        "pieces": "70",
+        "minifigs": "4",
+        "theme": "Duplo",
+        "subtheme": "Peppa Pig",
+        "year": "2024",
+        "availability": "April",
+        "price": "€69.99",
+        "retail": "€64.01"
+    },
+    {
+        "id": "10432",
+        "name": "Peppa Pig Boat Trip",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-10432-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-10432-1_large-1.jpg",
+        "pieces": "23",
+        "minifigs": "2",
+        "theme": "Duplo",
+        "subtheme": "Peppa Pig",
+        "year": "2024",
+        "availability": "March",
+        "price": "€29.99",
+        "retail": "€26.36"
+    },
+    {
+        "id": "10431",
+        "name": "Peppa Pig Garden and Tree House",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-10431-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-10431-1_large-1.jpg",
+        "pieces": "20",
+        "minifigs": "2",
+        "theme": "Duplo",
+        "subtheme": "Peppa Pig",
+        "year": "2024",
+        "availability": "February",
         "price": "€19.99",
-        "retail": "€22.42"
+        "retail": "€17.47"
+    },
+    {
+        "id": "10965",
+        "name": "Bath Time Fun Floating Animal Train",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-10965-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-10965-1_large-1.jpg",
+        "pieces": "14",
+        "minifigs": "",
+        "theme": "Duplo",
+        "subtheme": "None",
+        "year": "2022",
+        "availability": "February",
+        "price": "€19.99",
+        "retail": "€17.59"
+    },
+    {
+        "id": "10967",
+        "name": "Police Motorcycle",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-10967-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-10967-1_large-1.jpg",
+        "pieces": "5",
+        "minifigs": "1",
+        "theme": "Duplo",
+        "subtheme": "None",
+        "year": "2022",
+        "availability": "February",
+        "price": "€9.99",
+        "retail": "€8.79"
+    },
+    {
+        "id": "10422",
+        "name": "3in1 Space Shuttle Adventure",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-10422-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-10422-1_large-1.jpg",
+        "pieces": "58",
+        "minifigs": "2",
+        "theme": "Duplo",
+        "subtheme": "Space",
+        "year": "2024",
+        "availability": "December 2025",
+        "price": "€64.99",
+        "retail": "€54.38"
     },
     {
         "id": "10423",
@@ -375,7 +403,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€54.99",
-        "retail": "€45.02"
+        "retail": "€44.83"
     },
     {
         "id": "10414",
@@ -389,21 +417,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€29.99",
-        "retail": "€29.47"
-    },
-    {
-        "id": "10418",
-        "name": "Elsa & Bruni in the Enchanted Forest",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-10418-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-10418-1_large-1.jpg",
-        "pieces": "31",
-        "minifigs": "1",
-        "theme": "Duplo",
-        "subtheme": "Frozen",
-        "year": "2024",
-        "availability": "December 2025",
-        "price": "€27.99",
-        "retail": "€31.49"
+        "retail": "€34.04"
     },
     {
         "id": "45681",
@@ -417,7 +431,21 @@
         "year": "2021",
         "availability": "December 2025",
         "price": "€124.99",
-        "retail": "€243.41"
+        "retail": "€193.58"
+    },
+    {
+        "id": "77070",
+        "name": "Durrr Burger",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-77070-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-77070-1_large-1.jpg",
+        "pieces": "193",
+        "minifigs": "",
+        "theme": "Fortnite",
+        "subtheme": "None",
+        "year": "2024",
+        "availability": "January",
+        "price": "€14.99",
+        "retail": "€15.02"
     },
     {
         "id": "77072",
@@ -431,7 +459,7 @@
         "year": "2024",
         "availability": "January",
         "price": "€99.99",
-        "retail": "€79.20"
+        "retail": "€87.96"
     },
     {
         "id": "42621",
@@ -445,7 +473,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€99.99",
-        "retail": "€161.56"
+        "retail": "€161.57"
     },
     {
         "id": "42643",
@@ -459,63 +487,35 @@
         "year": "2025",
         "availability": "December 2025",
         "price": "€9.99",
-        "retail": "€10.56"
+        "retail": "€10.47"
     },
     {
-        "id": "42635",
-        "name": "Dog Grooming Car",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-42635-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-42635-1_large-1.jpg",
-        "pieces": "60",
-        "minifigs": "2",
-        "theme": "Friends",
-        "subtheme": "Pets",
-        "year": "2024",
-        "availability": "December 2025",
-        "price": "€9.99",
-        "retail": "€12.89"
-    },
-    {
-        "id": "42618",
-        "name": "Heartlake City Cafe",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-42618-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-42618-1_large-1.jpg",
-        "pieces": "426",
-        "minifigs": "3",
-        "theme": "Friends",
-        "subtheme": "Heartlake City",
-        "year": "2024",
-        "availability": "December 2025",
-        "price": "€29.99",
-        "retail": "€35.31"
-    },
-    {
-        "id": "76434",
-        "name": "Aragog In The Forbidden Forest",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-76434-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76434-1_large-1.jpg",
-        "pieces": "195",
-        "minifigs": "2",
-        "theme": "Harry Potter",
-        "subtheme": "Chamber of Secrets",
-        "year": "2024",
-        "availability": "December 2025",
-        "price": "€19.99",
-        "retail": "€20.98"
-    },
-    {
-        "id": "76431",
-        "name": "Hogwarts Potions Class",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-76431-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76431-1_large-1.jpg",
-        "pieces": "397",
-        "minifigs": "4",
+        "id": "76417",
+        "name": "Gringotts Wizarding Bank",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-76417-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76417-1_large-1.jpg",
+        "pieces": "4,815",
+        "minifigs": "13",
         "theme": "Harry Potter",
         "subtheme": "None",
-        "year": "2024",
-        "availability": "December 2025",
-        "price": "€39.99",
-        "retail": "€43.98"
+        "year": "2023",
+        "availability": "March",
+        "price": "€429.99",
+        "retail": "€553.62"
+    },
+    {
+        "id": "76456",
+        "name": "Advent Calendar 2025",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-76456-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76456-1_large-1.jpg",
+        "pieces": "278",
+        "minifigs": "8",
+        "theme": "Harry Potter",
+        "subtheme": "Seasonal",
+        "year": "2025",
+        "availability": "February",
+        "price": "€34.99",
+        "retail": "€34.92"
     },
     {
         "id": "10355",
@@ -529,7 +529,7 @@
         "year": "2025",
         "availability": "January",
         "price": "€99.99",
-        "retail": "€78.36"
+        "retail": "€79.37"
     },
     {
         "id": "10298",
@@ -543,21 +543,7 @@
         "year": "2022",
         "availability": "December 2025",
         "price": "€99.99",
-        "retail": "€87.99"
-    },
-    {
-        "id": "40747",
-        "name": "Daffodils",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-40747-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40747-1_large-1.jpg",
-        "pieces": "216",
-        "minifigs": "",
-        "theme": "Icons",
-        "subtheme": "Botanical Collection",
-        "year": "2024",
-        "availability": "December 2025",
-        "price": "€14.99",
-        "retail": "€17.55"
+        "retail": "€93.67"
     },
     {
         "id": "21342",
@@ -571,7 +557,7 @@
         "year": "2023",
         "availability": "March",
         "price": "€79.99",
-        "retail": "€64.49"
+        "retail": "€63.49"
     },
     {
         "id": "21330",
@@ -585,7 +571,21 @@
         "year": "2021",
         "availability": "January",
         "price": "€299.99",
-        "retail": "€286.00"
+        "retail": "€263.99"
+    },
+    {
+        "id": "21346",
+        "name": "Family Tree",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-21346-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-21346-1_large-1.jpg",
+        "pieces": "1,040",
+        "minifigs": "",
+        "theme": "Ideas",
+        "subtheme": "None",
+        "year": "2024",
+        "availability": "December 2025",
+        "price": "€89.99",
+        "retail": "€70.39"
     },
     {
         "id": "76310",
@@ -599,7 +599,7 @@
         "year": "2025",
         "availability": "December 2025",
         "price": "€29.99",
-        "retail": "€28.14"
+        "retail": "€28.71"
     },
     {
         "id": "76289",
@@ -613,7 +613,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€29.99",
-        "retail": "€30.23"
+        "retail": "€30.79"
     },
     {
         "id": "76292",
@@ -627,7 +627,21 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€54.99",
-        "retail": "€43.12"
+        "retail": "€43.56"
+    },
+    {
+        "id": "21281",
+        "name": "Baby Pig's Birthday Celebration",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-21281-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-21281-1_large-1.jpg",
+        "pieces": "351",
+        "minifigs": "",
+        "theme": "Minecraft",
+        "subtheme": "Miscellaneous",
+        "year": "2024",
+        "availability": "March",
+        "price": "€19.99",
+        "retail": "€17.68"
     },
     {
         "id": "21252",
@@ -641,21 +655,7 @@
         "year": "2023",
         "availability": "January",
         "price": "€19.99",
-        "retail": "€17.10"
-    },
-    {
-        "id": "21251",
-        "name": "Steve's Desert Expedition",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-21251-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-21251-1_large-1.jpg",
-        "pieces": "75",
-        "minifigs": "1",
-        "theme": "Minecraft",
-        "subtheme": "Minifig-scale",
-        "year": "2024",
-        "availability": "December 2025",
-        "price": "€9.99",
-        "retail": "€13.20"
+        "retail": "€17.62"
     },
     {
         "id": "Animals Series 28 Sealed Box",
@@ -683,7 +683,7 @@
         "year": "2026",
         "availability": "March",
         "price": "€47.88",
-        "retail": "€55.28"
+        "retail": "€54.74"
     },
     {
         "id": "Parrot Costume Girl",
@@ -739,7 +739,7 @@
         "year": "2026",
         "availability": "March",
         "price": "€3.99",
-        "retail": "€4.87"
+        "retail": "€4.89"
     },
     {
         "id": "Crocodile Costume Girl",
@@ -753,7 +753,7 @@
         "year": "2026",
         "availability": "March",
         "price": "€3.99",
-        "retail": "€4.84"
+        "retail": "€9.67"
     },
     {
         "id": "Dalmatian Costume Guy",
@@ -781,7 +781,7 @@
         "year": "2026",
         "availability": "March",
         "price": "€3.99",
-        "retail": "€5.13"
+        "retail": "€8.55"
     },
     {
         "id": "Frog Costume Guy",
@@ -795,7 +795,7 @@
         "year": "2026",
         "availability": "March",
         "price": "€3.99",
-        "retail": "€8.68"
+        "retail": "€9.45"
     },
     {
         "id": "Monkey Costume Guy",
@@ -823,7 +823,7 @@
         "year": "2026",
         "availability": "March",
         "price": "€3.99",
-        "retail": "€4.96"
+        "retail": "€5.06"
     },
     {
         "id": "Fluffy Cat Costume Girl",
@@ -837,7 +837,7 @@
         "year": "2026",
         "availability": "March",
         "price": "€3.99",
-        "retail": "€4.84"
+        "retail": "€8.79"
     },
     {
         "id": "Peacock Costume Guy",
@@ -865,7 +865,7 @@
         "year": "2026",
         "availability": "March",
         "price": "€3.99",
-        "retail": "€5.26"
+        "retail": "€5.27"
     },
     {
         "id": "Box of 6 Random Packs",
@@ -879,7 +879,7 @@
         "year": "2026",
         "availability": "February",
         "price": "€29.94",
-        "retail": "€34.58"
+        "retail": "€27.93"
     },
     {
         "id": "F1 Collectible Race Cars 6 Pack",
@@ -893,7 +893,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€29.94",
-        "retail": "€26.38"
+        "retail": "€26.40"
     },
     {
         "id": "F1 Car",
@@ -907,7 +907,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€3.99",
-        "retail": "€4.40"
+        "retail": "€4.41"
     },
     {
         "id": "F1 Academy",
@@ -935,7 +935,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€3.99",
-        "retail": "€6.27"
+        "retail": "€7.96"
     },
     {
         "id": "Sauber",
@@ -963,7 +963,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€3.99",
-        "retail": "€3.77"
+        "retail": "€4.89"
     },
     {
         "id": "Williams",
@@ -977,7 +977,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€3.99",
-        "retail": "€7.62"
+        "retail": "€8.76"
     },
     {
         "id": "Alpine",
@@ -991,7 +991,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€3.99",
-        "retail": "€4.87"
+        "retail": "€4.77"
     },
     {
         "id": "Aston Martin",
@@ -1005,7 +1005,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€3.99",
-        "retail": "€5.70"
+        "retail": "€10.26"
     },
     {
         "id": "McLaren",
@@ -1019,7 +1019,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€3.99",
-        "retail": "€5.99"
+        "retail": "€11.38"
     },
     {
         "id": "Ferrari",
@@ -1033,7 +1033,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€3.99",
-        "retail": "€4.89"
+        "retail": "€5.24"
     },
     {
         "id": "Mercedes-AMG",
@@ -1047,7 +1047,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€3.99",
-        "retail": "€5.71"
+        "retail": "€7.37"
     },
     {
         "id": "Red Bull RB20",
@@ -1061,7 +1061,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€3.99",
-        "retail": "€7.04"
+        "retail": "€10.90"
     },
     {
         "id": "F1 Collectible Race Cars Sealed Box",
@@ -1075,7 +1075,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€143.64",
-        "retail": "€182.42"
+        "retail": "€177.20"
     },
     {
         "id": "F1 Collectible Race Cars Complete Set",
@@ -1089,7 +1089,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€47.88",
-        "retail": "€46.01"
+        "retail": "€45.43"
     },
     {
         "id": "F1 Collectible Race Cars Random Pack",
@@ -1117,7 +1117,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€49.99",
-        "retail": "€46.46"
+        "retail": "€48.40"
     },
     {
         "id": "71821",
@@ -1131,7 +1131,21 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€99.99",
-        "retail": "€134.60"
+        "retail": "€137.65"
+    },
+    {
+        "id": "40744",
+        "name": "Christmas Ornament Selection",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-40744-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40744-1_large-1.jpg",
+        "pieces": "153",
+        "minifigs": "",
+        "theme": "Seasonal",
+        "subtheme": "Christmas",
+        "year": "2024",
+        "availability": "March",
+        "price": "€12.99",
+        "retail": "€12.63"
     },
     {
         "id": "40915",
@@ -1145,7 +1159,21 @@
         "year": "2026",
         "availability": "February",
         "price": "€29.99",
-        "retail": "€34.31"
+        "retail": "€30.80"
+    },
+    {
+        "id": "40721",
+        "name": "Halloween Barn",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-40721-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40721-1_large-1.jpg",
+        "pieces": "205",
+        "minifigs": "1",
+        "theme": "Seasonal",
+        "subtheme": "Halloween",
+        "year": "2024",
+        "availability": "January",
+        "price": "€14.99",
+        "retail": "€15.41"
     },
     {
         "id": "76999",
@@ -1159,7 +1187,7 @@
         "year": "2024",
         "availability": "February",
         "price": "€79.99",
-        "retail": "€62.17"
+        "retail": "€66.85"
     },
     {
         "id": "77000",
@@ -1173,7 +1201,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€69.99",
-        "retail": "€73.74"
+        "retail": "€67.05"
     },
     {
         "id": "76996",
@@ -1187,21 +1215,21 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€34.99",
-        "retail": "€30.80"
+        "retail": "€30.78"
     },
     {
-        "id": "76997",
-        "name": "Tails' Adventure Boat",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-76997-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76997-1_large-1.jpg",
-        "pieces": "393",
-        "minifigs": "3",
-        "theme": "Sonic the Hedgehog",
-        "subtheme": "Classic Games",
-        "year": "2024",
-        "availability": "December 2025",
-        "price": "€54.99",
-        "retail": "€44.06"
+        "id": "31734",
+        "name": "Mini F1 ACADEMY Car",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-31734-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-31734-1_large-1.jpg",
+        "pieces": "58",
+        "minifigs": "",
+        "theme": "Speed Champions",
+        "subtheme": "None",
+        "year": "2026",
+        "availability": "March",
+        "price": "€3.99",
+        "retail": "€3.51"
     },
     {
         "id": "76925",
@@ -1215,7 +1243,7 @@
         "year": "2024",
         "availability": "January",
         "price": "€49.99",
-        "retail": "€35.71"
+        "retail": "€35.19"
     },
     {
         "id": "76920",
@@ -1229,35 +1257,21 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€26.99",
-        "retail": "€30.80"
+        "retail": "€31.13"
     },
     {
-        "id": "76921",
-        "name": "Audi S1 e-tron quattro",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-76921-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76921-1_large-1.jpg",
-        "pieces": "274",
-        "minifigs": "1",
-        "theme": "Speed Champions",
-        "subtheme": "Audi",
-        "year": "2024",
-        "availability": "December 2025",
-        "price": "€26.99",
-        "retail": "€23.50"
-    },
-    {
-        "id": "76922",
-        "name": "BMW M4 GT3 & BMW M Hybrid V8",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-76922-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76922-1_large-1.jpg",
-        "pieces": "676",
-        "minifigs": "2",
-        "theme": "Speed Champions",
-        "subtheme": "BMW",
-        "year": "2024",
-        "availability": "December 2025",
-        "price": "€49.99",
-        "retail": "€35.17"
+        "id": "75345",
+        "name": "501st Clone Troopers Battle Pack",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-75345-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-75345-1_large-1.jpg",
+        "pieces": "119",
+        "minifigs": "4",
+        "theme": "Star Wars",
+        "subtheme": "The Clone Wars",
+        "year": "2023",
+        "availability": "June",
+        "price": "€19.99",
+        "retail": "€18.08"
     },
     {
         "id": "75381",
@@ -1271,7 +1285,7 @@
         "year": "2024",
         "availability": "February",
         "price": "€64.99",
-        "retail": "€52.80"
+        "retail": "€55.34"
     },
     {
         "id": "75418",
@@ -1285,7 +1299,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€34.99",
-        "retail": "€36.92"
+        "retail": "€35.83"
     },
     {
         "id": "75355",
@@ -1299,7 +1313,7 @@
         "year": "2023",
         "availability": "February",
         "price": "€239.99",
-        "retail": "€247.69"
+        "retail": "€246.38"
     },
     {
         "id": "75357",
@@ -1313,21 +1327,7 @@
         "year": "2023",
         "availability": "January",
         "price": "€169.99",
-        "retail": "€149.59"
-    },
-    {
-        "id": "75392",
-        "name": "Creative Play Droid Builder",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-75392-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-75392-1_large-1.jpg",
-        "pieces": "1,186",
-        "minifigs": "1",
-        "theme": "Star Wars",
-        "subtheme": "None",
-        "year": "2024",
-        "availability": "December 2025",
-        "price": "€99.99",
-        "retail": "€88.00"
+        "retail": "€140.76"
     },
     {
         "id": "71435",
@@ -1341,7 +1341,21 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€64.99",
-        "retail": "€52.78"
+        "retail": "€57.20"
+    },
+    {
+        "id": "42130",
+        "name": "BMW M 1000 RR",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-42130-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-42130-1_large-1.jpg",
+        "pieces": "1,920",
+        "minifigs": "",
+        "theme": "Technic",
+        "subtheme": "None",
+        "year": "2022",
+        "availability": "May",
+        "price": "€249.99",
+        "retail": "€232.62"
     },
     {
         "id": "42141",
@@ -1355,48 +1369,34 @@
         "year": "2022",
         "availability": "December 2025",
         "price": "€199.99",
-        "retail": "€200.95"
+        "retail": "€183.30"
     },
     {
-        "id": "42174",
-        "name": "Emirates Team New Zealand AC75 Racing Yacht",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-42174-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-42174-1_large-1.jpg",
-        "pieces": "962",
-        "minifigs": "",
-        "theme": "Technic",
-        "subtheme": "Licensed",
+        "id": "77092",
+        "name": "Great Deku Tree 2-in-1",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-77092-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-77092-1_large-1.jpg",
+        "pieces": "2,500",
+        "minifigs": "4",
+        "theme": "The Legend of Zelda",
+        "subtheme": "None",
         "year": "2024",
-        "availability": "December 2025",
-        "price": "€119.99",
-        "retail": "€113.16"
+        "availability": "June",
+        "price": "€299.99",
+        "retail": "€404.79"
     },
     {
-        "id": "42196",
-        "name": "Lamborghini Huracán Tecnica Orange",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-42196-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-42196-1_large-1.jpg",
-        "pieces": "806",
-        "minifigs": "",
-        "theme": "Technic",
-        "subtheme": "Licensed",
+        "id": "75681",
+        "name": "Glinda, Elphaba & Nessarose at Shiz University",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-75681-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-75681-1_large-1.jpg",
+        "pieces": "304",
+        "minifigs": "3",
+        "theme": "Wicked",
+        "subtheme": "Part One",
         "year": "2024",
-        "availability": "December 2025",
-        "price": "€52.99",
-        "retail": "€43.38"
-    },
-    {
-        "id": "42146",
-        "name": "Liebherr LR13000",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-42146-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-42146-1_large-1.jpg",
-        "pieces": "2,883",
-        "minifigs": "",
-        "theme": "Technic",
-        "subtheme": "Licensed",
-        "year": "2023",
-        "availability": "December 2025",
-        "price": "€679.99",
-        "retail": "€649.33"
+        "availability": "February",
+        "price": "€29.99",
+        "retail": "€25.87"
     }
 ]
