@@ -560,20 +560,6 @@
         "retail": "Available at retail"
     },
     {
-        "id": "30697",
-        "name": "Nova's Doghouse Build",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-30697-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-30697-1_large-1.jpg",
-        "pieces": "50",
-        "minifigs": "1",
-        "availability": "End of 2026",
-        "theme": "Friends",
-        "subtheme": "Pets",
-        "year": "2025",
-        "price": "€4.99",
-        "retail": "Available at retail"
-    },
-    {
         "id": "10788",
         "name": "Gabby's Dollhouse",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-10788-1_large.jpg",
@@ -1523,6 +1509,20 @@
         "subtheme": "Ultimate Collector Series",
         "year": "2017",
         "price": "€849.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "75367",
+        "name": "Venator-class Republic Attack Cruiser",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-75367-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-75367-1_large-1.jpg",
+        "pieces": "5,374",
+        "minifigs": "2",
+        "availability": "End of 2026",
+        "theme": "Star Wars",
+        "subtheme": "Ultimate Collector Series",
+        "year": "2023",
+        "price": "€649.99",
         "retail": "Available at retail"
     },
     {
