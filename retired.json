@@ -11,7 +11,7 @@
         "year": "2017",
         "availability": "March",
         "price": "€39.99",
-        "retail": "€30.03"
+        "retail": "€32.07"
     },
     {
         "id": "40800",
@@ -25,7 +25,7 @@
         "year": "2025",
         "availability": "April",
         "price": "€9.99",
-        "retail": "€12.32"
+        "retail": "€13.19"
     },
     {
         "id": "40798",
@@ -39,7 +39,7 @@
         "year": "2025",
         "availability": "December 2025",
         "price": "€9.99",
-        "retail": "€17.59"
+        "retail": "€16.85"
     },
     {
         "id": "40748",
@@ -53,7 +53,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€24.99",
-        "retail": "€41.50"
+        "retail": "€39.58"
     },
     {
         "id": "40669",
@@ -67,7 +67,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€9.99",
-        "retail": "€12.19"
+        "retail": "€11.80"
     },
     {
         "id": "40792",
@@ -81,7 +81,7 @@
         "year": "2025",
         "availability": "December 2025",
         "price": "€9.99",
-        "retail": "€17.27"
+        "retail": "€17.78"
     },
     {
         "id": "40675",
@@ -95,7 +95,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€9.99",
-        "retail": "€14.68"
+        "retail": "€14.92"
     },
     {
         "id": "910068",
@@ -109,7 +109,7 @@
         "year": "2026",
         "availability": "June",
         "price": "€359.99",
-        "retail": "€579.52"
+        "retail": "€594.59"
     },
     {
         "id": "910067",
@@ -151,7 +151,7 @@
         "year": "2026",
         "availability": "June",
         "price": "€209.99",
-        "retail": "€351.99"
+        "retail": "€355.28"
     },
     {
         "id": "910064",
@@ -165,7 +165,7 @@
         "year": "2026",
         "availability": "June",
         "price": "€349.99",
-        "retail": "€521.04"
+        "retail": "€478.48"
     },
     {
         "id": "910063",
@@ -179,7 +179,7 @@
         "year": "2026",
         "availability": "February",
         "price": "€39.99",
-        "retail": "€74.80"
+        "retail": "€63.39"
     },
     {
         "id": "910062",
@@ -193,7 +193,7 @@
         "year": "2026",
         "availability": "February",
         "price": "€199.99",
-        "retail": "€257.89"
+        "retail": "€286.00"
     },
     {
         "id": "910061",
@@ -207,7 +207,7 @@
         "year": "2026",
         "availability": "February",
         "price": "€109.99",
-        "retail": "€139.54"
+        "retail": "€150.69"
     },
     {
         "id": "910060",
@@ -221,7 +221,7 @@
         "year": "2026",
         "availability": "February",
         "price": "€279.99",
-        "retail": "€340.81"
+        "retail": "€346.61"
     },
     {
         "id": "910059",
@@ -235,7 +235,7 @@
         "year": "2026",
         "availability": "February",
         "price": "€349.99",
-        "retail": "€418.00"
+        "retail": "€434.12"
     },
     {
         "id": "60474",
@@ -277,7 +277,7 @@
         "year": "2024",
         "availability": "January",
         "price": "€39.99",
-        "retail": "€35.16"
+        "retail": "€34.81"
     },
     {
         "id": "43252",
@@ -291,7 +291,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€44.99",
-        "retail": "€62.42"
+        "retail": "€65.00"
     },
     {
         "id": "71490",
@@ -319,7 +319,7 @@
         "year": "2025",
         "availability": "December 2025",
         "price": "€9.99",
-        "retail": "€10.46"
+        "retail": "€10.55"
     },
     {
         "id": "71479",
@@ -347,7 +347,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€39.99",
-        "retail": "€33.49"
+        "retail": "€30.79"
     },
     {
         "id": "10434",
@@ -361,7 +361,7 @@
         "year": "2024",
         "availability": "April",
         "price": "€69.99",
-        "retail": "€65.07"
+        "retail": "€61.56"
     },
     {
         "id": "10432",
@@ -375,7 +375,7 @@
         "year": "2024",
         "availability": "March",
         "price": "€29.99",
-        "retail": "€26.39"
+        "retail": "€26.30"
     },
     {
         "id": "10431",
@@ -389,7 +389,7 @@
         "year": "2024",
         "availability": "February",
         "price": "€19.99",
-        "retail": "€17.47"
+        "retail": "€16.98"
     },
     {
         "id": "10965",
@@ -473,7 +473,7 @@
         "year": "2024",
         "availability": "January",
         "price": "€14.99",
-        "retail": "€14.07"
+        "retail": "€14.70"
     },
     {
         "id": "77072",
@@ -529,7 +529,7 @@
         "year": "2023",
         "availability": "March",
         "price": "€429.99",
-        "retail": "€583.27"
+        "retail": "€608.01"
     },
     {
         "id": "76456",
@@ -557,7 +557,7 @@
         "year": "2025",
         "availability": "January",
         "price": "€99.99",
-        "retail": "€78.05"
+        "retail": "€75.75"
     },
     {
         "id": "21342",
@@ -571,7 +571,7 @@
         "year": "2023",
         "availability": "March",
         "price": "€79.99",
-        "retail": "€63.49"
+        "retail": "€64.77"
     },
     {
         "id": "21330",
@@ -585,7 +585,7 @@
         "year": "2021",
         "availability": "January",
         "price": "€299.99",
-        "retail": "€262.14"
+        "retail": "€253.96"
     },
     {
         "id": "21346",
@@ -599,7 +599,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€89.99",
-        "retail": "€73.56"
+        "retail": "€70.39"
     },
     {
         "id": "76310",
@@ -613,7 +613,7 @@
         "year": "2025",
         "availability": "December 2025",
         "price": "€29.99",
-        "retail": "€30.27"
+        "retail": "€28.71"
     },
     {
         "id": "76289",
@@ -627,7 +627,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€29.99",
-        "retail": "€30.03"
+        "retail": "€28.16"
     },
     {
         "id": "76292",
@@ -641,7 +641,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€54.99",
-        "retail": "€43.96"
+        "retail": "€43.44"
     },
     {
         "id": "21281",
@@ -655,7 +655,7 @@
         "year": "2024",
         "availability": "March",
         "price": "€19.99",
-        "retail": "€48.40"
+        "retail": "€43.99"
     },
     {
         "id": "21252",
@@ -669,7 +669,7 @@
         "year": "2023",
         "availability": "January",
         "price": "€19.99",
-        "retail": "€17.70"
+        "retail": "€17.60"
     },
     {
         "id": "Animals Series 28 Sealed Box",
@@ -683,7 +683,7 @@
         "year": "2026",
         "availability": "March",
         "price": "€143.64",
-        "retail": "€146.49"
+        "retail": "€160.11"
     },
     {
         "id": "Animals Series 28 Complete Set",
@@ -697,7 +697,7 @@
         "year": "2026",
         "availability": "March",
         "price": "€47.88",
-        "retail": "€54.74"
+        "retail": "€54.25"
     },
     {
         "id": "Parrot Costume Girl",
@@ -711,7 +711,7 @@
         "year": "2026",
         "availability": "March",
         "price": "€3.99",
-        "retail": "€4.71"
+        "retail": "€6.74"
     },
     {
         "id": "Lion Costume Girl",
@@ -739,7 +739,7 @@
         "year": "2026",
         "availability": "March",
         "price": "€3.99",
-        "retail": "€4.91"
+        "retail": "€5.21"
     },
     {
         "id": "Dolphin Costume Girl",
@@ -753,7 +753,7 @@
         "year": "2026",
         "availability": "March",
         "price": "€3.99",
-        "retail": "€4.89"
+        "retail": "€5.18"
     },
     {
         "id": "Crocodile Costume Girl",
@@ -767,7 +767,7 @@
         "year": "2026",
         "availability": "March",
         "price": "€3.99",
-        "retail": "€9.67"
+        "retail": "€10.40"
     },
     {
         "id": "Dalmatian Costume Guy",
@@ -781,7 +781,7 @@
         "year": "2026",
         "availability": "March",
         "price": "€3.99",
-        "retail": "€4.75"
+        "retail": "€4.82"
     },
     {
         "id": "Koala Costume Guy",
@@ -809,7 +809,7 @@
         "year": "2026",
         "availability": "March",
         "price": "€3.99",
-        "retail": "€9.45"
+        "retail": "€10.37"
     },
     {
         "id": "Monkey Costume Guy",
@@ -823,7 +823,7 @@
         "year": "2026",
         "availability": "March",
         "price": "€3.99",
-        "retail": "€4.73"
+        "retail": "€6.29"
     },
     {
         "id": "Goldfish Costume Girl",
@@ -837,7 +837,7 @@
         "year": "2026",
         "availability": "March",
         "price": "€3.99",
-        "retail": "€5.06"
+        "retail": "€5.36"
     },
     {
         "id": "Fluffy Cat Costume Girl",
@@ -851,7 +851,7 @@
         "year": "2026",
         "availability": "March",
         "price": "€3.99",
-        "retail": "€8.78"
+        "retail": "€8.69"
     },
     {
         "id": "Peacock Costume Guy",
@@ -865,7 +865,7 @@
         "year": "2026",
         "availability": "March",
         "price": "€3.99",
-        "retail": "€4.63"
+        "retail": "€4.95"
     },
     {
         "id": "Animals Series 28 Random Pack",
@@ -907,7 +907,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€29.94",
-        "retail": "€26.40"
+        "retail": "€26.39"
     },
     {
         "id": "F1 Car",
@@ -921,7 +921,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€3.99",
-        "retail": "€4.41"
+        "retail": "€4.40"
     },
     {
         "id": "F1 Academy",
@@ -949,7 +949,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€3.99",
-        "retail": "€8.47"
+        "retail": "€8.54"
     },
     {
         "id": "Sauber",
@@ -977,7 +977,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€3.99",
-        "retail": "€7.03"
+        "retail": "€7.08"
     },
     {
         "id": "Williams",
@@ -991,7 +991,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€3.99",
-        "retail": "€8.76"
+        "retail": "€9.05"
     },
     {
         "id": "Alpine",
@@ -1005,7 +1005,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€3.99",
-        "retail": "€4.75"
+        "retail": "€4.78"
     },
     {
         "id": "Aston Martin",
@@ -1033,7 +1033,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€3.99",
-        "retail": "€11.44"
+        "retail": "€11.43"
     },
     {
         "id": "Ferrari",
@@ -1047,7 +1047,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€3.99",
-        "retail": "€5.27"
+        "retail": "€5.26"
     },
     {
         "id": "Mercedes-AMG",
@@ -1061,7 +1061,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€3.99",
-        "retail": "€8.25"
+        "retail": "€8.31"
     },
     {
         "id": "Red Bull RB20",
@@ -1075,7 +1075,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€3.99",
-        "retail": "€11.38"
+        "retail": "€11.49"
     },
     {
         "id": "F1 Collectible Race Cars Sealed Box",
@@ -1089,7 +1089,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€143.64",
-        "retail": "€177.20"
+        "retail": "€155.87"
     },
     {
         "id": "F1 Collectible Race Cars Complete Set",
@@ -1103,7 +1103,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€47.88",
-        "retail": "€43.11"
+        "retail": "€43.10"
     },
     {
         "id": "F1 Collectible Race Cars Random Pack",
@@ -1131,7 +1131,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€49.99",
-        "retail": "€48.39"
+        "retail": "€46.75"
     },
     {
         "id": "71821",
@@ -1145,7 +1145,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€99.99",
-        "retail": "€132.68"
+        "retail": "€145.03"
     },
     {
         "id": "40744",
@@ -1159,7 +1159,7 @@
         "year": "2024",
         "availability": "March",
         "price": "€12.99",
-        "retail": "€13.09"
+        "retail": "€13.19"
     },
     {
         "id": "40915",
@@ -1173,7 +1173,7 @@
         "year": "2026",
         "availability": "February",
         "price": "€29.99",
-        "retail": "€30.48"
+        "retail": "€28.30"
     },
     {
         "id": "40721",
@@ -1187,7 +1187,7 @@
         "year": "2024",
         "availability": "January",
         "price": "€14.99",
-        "retail": "€14.86"
+        "retail": "€16.44"
     },
     {
         "id": "76999",
@@ -1201,7 +1201,7 @@
         "year": "2024",
         "availability": "February",
         "price": "€79.99",
-        "retail": "€59.83"
+        "retail": "€61.57"
     },
     {
         "id": "77000",
@@ -1229,7 +1229,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€34.99",
-        "retail": "€30.79"
+        "retail": "€30.78"
     },
     {
         "id": "31734",
@@ -1257,7 +1257,7 @@
         "year": "2024",
         "availability": "January",
         "price": "€49.99",
-        "retail": "€34.33"
+        "retail": "€35.33"
     },
     {
         "id": "76920",
@@ -1271,7 +1271,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€26.99",
-        "retail": "€29.17"
+        "retail": "€30.76"
     },
     {
         "id": "75345",
@@ -1285,7 +1285,7 @@
         "year": "2023",
         "availability": "June",
         "price": "€19.99",
-        "retail": "€17.60"
+        "retail": "€21.63"
     },
     {
         "id": "75381",
@@ -1299,7 +1299,7 @@
         "year": "2024",
         "availability": "February",
         "price": "€64.99",
-        "retail": "€56.70"
+        "retail": "€57.19"
     },
     {
         "id": "75418",
@@ -1313,7 +1313,7 @@
         "year": "2025",
         "availability": "February",
         "price": "€34.99",
-        "retail": "€35.18"
+        "retail": "€34.33"
     },
     {
         "id": "75355",
@@ -1327,7 +1327,7 @@
         "year": "2023",
         "availability": "February",
         "price": "€239.99",
-        "retail": "€224.15"
+        "retail": "€228.79"
     },
     {
         "id": "75357",
@@ -1341,7 +1341,7 @@
         "year": "2023",
         "availability": "January",
         "price": "€169.99",
-        "retail": "€140.78"
+        "retail": "€136.39"
     },
     {
         "id": "71435",
@@ -1355,7 +1355,7 @@
         "year": "2024",
         "availability": "December 2025",
         "price": "€64.99",
-        "retail": "€55.24"
+        "retail": "€52.80"
     },
     {
         "id": "42130",
@@ -1369,7 +1369,7 @@
         "year": "2022",
         "availability": "May",
         "price": "€249.99",
-        "retail": "€260.24"
+        "retail": "€281.71"
     },
     {
         "id": "77092",
@@ -1383,7 +1383,7 @@
         "year": "2024",
         "availability": "June",
         "price": "€299.99",
-        "retail": "€396.00"
+        "retail": "€406.40"
     },
     {
         "id": "75681",
