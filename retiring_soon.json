@@ -42,34 +42,6 @@
         "retail": "Available at retail"
     },
     {
-        "id": "21042",
-        "name": "Statue of Liberty",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-21042-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-21042-1_large-1.jpg",
-        "pieces": "1,685",
-        "minifigs": "",
-        "availability": "End of 2026",
-        "theme": "Architecture",
-        "subtheme": "Landmark Series",
-        "year": "2018",
-        "price": "€99.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "21060",
-        "name": "Himeji Castle",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-21060-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-21060-1_large-1.jpg",
-        "pieces": "2,125",
-        "minifigs": "",
-        "availability": "End of 2026",
-        "theme": "Architecture",
-        "subtheme": "Landmark Series",
-        "year": "2023",
-        "price": "€159.99",
-        "retail": "Available at retail"
-    },
-    {
         "id": "10345",
         "name": "Flower Arrangement",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-10345-1_large.jpg",
@@ -210,20 +182,6 @@
         "retail": "Available at retail"
     },
     {
-        "id": "40801",
-        "name": "Mike, Dustin, Lucas and Will",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-40801-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40801-1_large-1.jpg",
-        "pieces": "542",
-        "minifigs": "",
-        "availability": "End of 2026",
-        "theme": "BrickHeadz",
-        "subtheme": "Stranger Things",
-        "year": "2025",
-        "price": "€39.99",
-        "retail": "Available at retail"
-    },
-    {
         "id": "40884",
         "name": "Drift & Raven",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-40884-1_large.jpg",
@@ -235,6 +193,20 @@
         "subtheme": "Fortnite",
         "year": "2025",
         "price": "€24.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "40801",
+        "name": "Mike, Dustin, Lucas and Will",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-40801-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40801-1_large-1.jpg",
+        "pieces": "542",
+        "minifigs": "",
+        "availability": "End of 2026",
+        "theme": "BrickHeadz",
+        "subtheme": "Stranger Things",
+        "year": "2025",
+        "price": "€39.99",
         "retail": "Available at retail"
     },
     {
@@ -277,6 +249,20 @@
         "subtheme": "Transformers",
         "year": "2026",
         "price": "€24.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "40619",
+        "name": "EVE & WALL-E",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-40619-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40619-1_large-1.jpg",
+        "pieces": "155",
+        "minifigs": "",
+        "availability": "End of 2026",
+        "theme": "BrickHeadz",
+        "subtheme": "Disney",
+        "year": "2023",
+        "price": "€19.99",
         "retail": "Available at retail"
     },
     {
@@ -364,20 +350,6 @@
         "retail": "Available at retail"
     },
     {
-        "id": "60462",
-        "name": "Helicopter, Fire Truck & Submarine Remix",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-60462-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-60462-1_large-1.jpg",
-        "pieces": "874",
-        "minifigs": "3",
-        "availability": "End of 2026",
-        "theme": "City",
-        "subtheme": "General",
-        "year": "2025",
-        "price": "€59.99",
-        "retail": "Available at retail"
-    },
-    {
         "id": "60457",
         "name": "Custom Police Car Garage",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-60457-1_large.jpg",
@@ -389,6 +361,20 @@
         "subtheme": "Police",
         "year": "2025",
         "price": "€49.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "60473",
+        "name": "The City Tower",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-60473-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-60473-1_large-1.jpg",
+        "pieces": "1,941",
+        "minifigs": "7",
+        "availability": "End of 2026",
+        "theme": "City",
+        "subtheme": "General",
+        "year": "2025",
+        "price": "€199.99",
         "retail": "Available at retail"
     },
     {
@@ -448,20 +434,6 @@
         "retail": "Available at retail"
     },
     {
-        "id": "60473",
-        "name": "The City Tower",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-60473-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-60473-1_large-1.jpg",
-        "pieces": "1,941",
-        "minifigs": "7",
-        "availability": "End of 2026",
-        "theme": "City",
-        "subtheme": "General",
-        "year": "2025",
-        "price": "€199.99",
-        "retail": "Available at retail"
-    },
-    {
         "id": "60495",
         "name": "Recycling Truck",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-60495-1_large.jpg",
@@ -518,6 +490,20 @@
         "retail": "Available at retail"
     },
     {
+        "id": "60367",
+        "name": "Passenger Airplane",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-60367-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-60367-1_large-1.jpg",
+        "pieces": "913",
+        "minifigs": "7",
+        "availability": "End of 2026",
+        "theme": "City",
+        "subtheme": "Airport",
+        "year": "2023",
+        "price": "€99.99",
+        "retail": "Available at retail"
+    },
+    {
         "id": "10696",
         "name": "Medium Creative Brick Box",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-10696-1_large.jpg",
@@ -560,17 +546,45 @@
         "retail": "Available at retail"
     },
     {
-        "id": "11043",
-        "name": "Cool Creative Box",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-11043-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-11043-1_large-1.jpg",
-        "pieces": "510",
+        "id": "11026",
+        "name": "White Baseplate",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-11026-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-11026-1_large-1.jpg",
+        "pieces": "1",
         "minifigs": "",
         "availability": "End of 2026",
         "theme": "Classic",
-        "subtheme": "Creative Box",
-        "year": "2025",
-        "price": "€29.99",
+        "subtheme": "None",
+        "year": "2022",
+        "price": "€8.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "11023",
+        "name": "Green Baseplate",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-11023-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-11023-1_large-1.jpg",
+        "pieces": "1",
+        "minifigs": "",
+        "availability": "End of 2026",
+        "theme": "Classic",
+        "subtheme": "None",
+        "year": "2022",
+        "price": "€8.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "11024",
+        "name": "Gray Baseplate",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-11024-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-11024-1_large-1.jpg",
+        "pieces": "1",
+        "minifigs": "",
+        "availability": "End of 2026",
+        "theme": "Classic",
+        "subtheme": "None",
+        "year": "2022",
+        "price": "€14.99",
         "retail": "Available at retail"
     },
     {
@@ -585,20 +599,6 @@
         "subtheme": "Traffic",
         "year": "2021",
         "price": "€9.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "40647",
-        "name": "Lotus Flowers",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-40647-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40647-1_large-1.jpg",
-        "pieces": "220",
-        "minifigs": "",
-        "availability": "End of 2026",
-        "theme": "Creator",
-        "subtheme": "Botanical Collection",
-        "year": "2023",
-        "price": "€12.99",
         "retail": "Available at retail"
     },
     {
@@ -627,34 +627,6 @@
         "subtheme": "Postcard",
         "year": "2024",
         "price": "€14.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "31149",
-        "name": "Flowers in Watering Can",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-31149-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-31149-1_large-1.jpg",
-        "pieces": "420",
-        "minifigs": "",
-        "availability": "End of 2026",
-        "theme": "Creator",
-        "subtheme": "3 in 1",
-        "year": "2024",
-        "price": "€29.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "31145",
-        "name": "Red Dragon",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-31145-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-31145-1_large-1.jpg",
-        "pieces": "149",
-        "minifigs": "",
-        "availability": "End of 2026",
-        "theme": "Creator",
-        "subtheme": "3 in 1",
-        "year": "2024",
-        "price": "€9.99",
         "retail": "Available at retail"
     },
     {
@@ -770,6 +742,118 @@
         "retail": "Available at retail"
     },
     {
+        "id": "40569",
+        "name": "London Postcard",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-40569-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40569-1_large-1.jpg",
+        "pieces": "277",
+        "minifigs": "",
+        "availability": "End of 2026",
+        "theme": "Creator",
+        "subtheme": "Postcard",
+        "year": "2022",
+        "price": "€14.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "40638",
+        "name": "Heart Ornament",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-40638-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40638-1_large-1.jpg",
+        "pieces": "254",
+        "minifigs": "",
+        "availability": "End of 2026",
+        "theme": "Creator",
+        "subtheme": "None",
+        "year": "2023",
+        "price": "€12.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "31134",
+        "name": "Space Shuttle",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-31134-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-31134-1_large-1.jpg",
+        "pieces": "144",
+        "minifigs": "",
+        "availability": "End of 2026",
+        "theme": "Creator",
+        "subtheme": "3 in 1",
+        "year": "2023",
+        "price": "€9.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "31136",
+        "name": "Exotic Parrot",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-31136-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-31136-1_large-1.jpg",
+        "pieces": "253",
+        "minifigs": "",
+        "availability": "End of 2026",
+        "theme": "Creator",
+        "subtheme": "3 in 1",
+        "year": "2023",
+        "price": "€24.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "31140",
+        "name": "Magical Unicorn",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-31140-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-31140-1_large-1.jpg",
+        "pieces": "145",
+        "minifigs": "",
+        "availability": "End of 2026",
+        "theme": "Creator",
+        "subtheme": "3 in 1",
+        "year": "2023",
+        "price": "€9.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "31148",
+        "name": "Roller Skate",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-31148-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-31148-1_large-1.jpg",
+        "pieces": "342",
+        "minifigs": "",
+        "availability": "Early to mid 2027",
+        "theme": "Creator",
+        "subtheme": "3 in 1",
+        "year": "2024",
+        "price": "€29.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "31147",
+        "name": "Retro Camera",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-31147-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-31147-1_large-1.jpg",
+        "pieces": "261",
+        "minifigs": "",
+        "availability": "Early to mid 2027",
+        "theme": "Creator",
+        "subtheme": "3 in 1",
+        "year": "2024",
+        "price": "€19.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "31146",
+        "name": "Flatbed Truck with Helicopter",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-31146-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-31146-1_large-1.jpg",
+        "pieces": "270",
+        "minifigs": "",
+        "availability": "Early to mid 2027",
+        "theme": "Creator",
+        "subtheme": "3 in 1",
+        "year": "2024",
+        "price": "€19.99",
+        "retail": "Available at retail"
+    },
+    {
         "id": "76303",
         "name": "Batman Tumbler vs. Two-Face and Joker",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-76303-1_large.jpg",
@@ -823,20 +907,6 @@
         "subtheme": "Disney 100",
         "year": "2023",
         "price": "€54.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "43243",
-        "name": "Simba the Lion King Cub",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-43243-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-43243-1_large-1.jpg",
-        "pieces": "222",
-        "minifigs": "",
-        "availability": "End of 2026",
-        "theme": "Disney",
-        "subtheme": "The Lion King",
-        "year": "2024",
-        "price": "€19.99",
         "retail": "Available at retail"
     },
     {
@@ -1134,20 +1204,6 @@
         "retail": "Available at retail"
     },
     {
-        "id": "10954",
-        "name": "Number Train - Learn To Count",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-10954-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-10954-1_large-1.jpg",
-        "pieces": "23",
-        "minifigs": "2",
-        "availability": "End of 2026",
-        "theme": "Duplo",
-        "subtheme": "None",
-        "year": "2021",
-        "price": "€19.99",
-        "retail": "Available at retail"
-    },
-    {
         "id": "43033",
         "name": "U.S. Soccer National Team Jersey",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-43033-1_large.jpg",
@@ -1243,6 +1299,62 @@
         "subtheme": "Maersk",
         "year": "2026",
         "price": "€149.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "40655",
+        "name": "Play with Braille – French Alphabet",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-40655-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40655-1_large-1.jpg",
+        "pieces": "284",
+        "minifigs": "",
+        "availability": "End of 2026",
+        "theme": "Exclusive",
+        "subtheme": "Braille Bricks",
+        "year": "2023",
+        "price": "€89.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "40656",
+        "name": "Play with Braille – English Alphabet",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-40656-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40656-1_large-1.jpg",
+        "pieces": "287",
+        "minifigs": "",
+        "availability": "End of 2026",
+        "theme": "Exclusive",
+        "subtheme": "Braille Bricks",
+        "year": "2023",
+        "price": "€89.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "40723",
+        "name": "Play with Braille - Italian Alphabet",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-40723-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40723-1_large-1.jpg",
+        "pieces": "287",
+        "minifigs": "",
+        "availability": "End of 2026",
+        "theme": "Exclusive",
+        "subtheme": "Braille Bricks",
+        "year": "2024",
+        "price": "€89.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "40724",
+        "name": "Play with Braille - Spanish Alphabet",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-40724-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40724-1_large-1.jpg",
+        "pieces": "287",
+        "minifigs": "",
+        "availability": "End of 2026",
+        "theme": "Exclusive",
+        "subtheme": "Braille Bricks",
+        "year": "2024",
+        "price": "€89.99",
         "retail": "Available at retail"
     },
     {
@@ -1400,17 +1512,17 @@
         "retail": "Available at retail"
     },
     {
-        "id": "76429",
-        "name": "The Sorting Hat",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-76429-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76429-1_large-1.jpg",
-        "pieces": "561",
-        "minifigs": "1",
+        "id": "10788",
+        "name": "Gabby's Dollhouse",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-10788-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-10788-1_large-1.jpg",
+        "pieces": "498",
+        "minifigs": "4",
         "availability": "End of 2026",
-        "theme": "Harry Potter",
-        "subtheme": "Characters Sculptures",
-        "year": "2024",
-        "price": "€99.99",
+        "theme": "Gabby's Dollhouse",
+        "subtheme": "None",
+        "year": "2023",
+        "price": "€79.99",
         "retail": "Available at retail"
     },
     {
@@ -1425,20 +1537,6 @@
         "subtheme": "Half-Blood Prince",
         "year": "2024",
         "price": "€259.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "76443",
-        "name": "Hagrid & Harry's Motorcycle Ride",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-76443-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76443-1_large-1.jpg",
-        "pieces": "617",
-        "minifigs": "",
-        "availability": "End of 2026",
-        "theme": "Harry Potter",
-        "subtheme": "None",
-        "year": "2025",
-        "price": "€49.99",
         "retail": "Available at retail"
     },
     {
@@ -1467,6 +1565,20 @@
         "subtheme": "Philosopher's Stone",
         "year": "2025",
         "price": "€79.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "76458",
+        "name": "Thestral Family",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-76458-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76458-1_large-1.jpg",
+        "pieces": "548",
+        "minifigs": "",
+        "availability": "End of 2026",
+        "theme": "Harry Potter",
+        "subtheme": "None",
+        "year": "2025",
+        "price": "€69.99",
         "retail": "Available at retail"
     },
     {
@@ -1512,20 +1624,6 @@
         "retail": "Available at retail"
     },
     {
-        "id": "76458",
-        "name": "Thestral Family",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-76458-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76458-1_large-1.jpg",
-        "pieces": "548",
-        "minifigs": "",
-        "availability": "End of 2026",
-        "theme": "Harry Potter",
-        "subtheme": "None",
-        "year": "2025",
-        "price": "€69.99",
-        "retail": "Available at retail"
-    },
-    {
         "id": "76467",
         "name": "Luna Lovegood’s House",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-76467-1_large.jpg",
@@ -1565,6 +1663,20 @@
         "subtheme": "None",
         "year": "2018",
         "price": "€469.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "76419",
+        "name": "Hogwarts Castle and Grounds",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-76419-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76419-1_large-1.jpg",
+        "pieces": "2,660",
+        "minifigs": "1",
+        "availability": "End of 2026",
+        "theme": "Harry Potter",
+        "subtheme": "None",
+        "year": "2023",
+        "price": "€169.99",
         "retail": "Available at retail"
     },
     {
@@ -1694,20 +1806,6 @@
         "retail": "Available at retail"
     },
     {
-        "id": "10331",
-        "name": "Kingfisher",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-10331-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-10331-1_large-1.jpg",
-        "pieces": "834",
-        "minifigs": "",
-        "availability": "End of 2026",
-        "theme": "Icons",
-        "subtheme": "None",
-        "year": "2024",
-        "price": "€49.99",
-        "retail": "Available at retail"
-    },
-    {
         "id": "10341",
         "name": "Artemis Space Launch System",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-10341-1_large.jpg",
@@ -1792,20 +1890,6 @@
         "retail": "Available at retail"
     },
     {
-        "id": "10362",
-        "name": "French Café",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-10362-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-10362-1_large-1.jpg",
-        "pieces": "1,011",
-        "minifigs": "",
-        "availability": "End of 2026",
-        "theme": "Icons",
-        "subtheme": "Restaurants of the World",
-        "year": "2025",
-        "price": "€79.99",
-        "retail": "Available at retail"
-    },
-    {
         "id": "10351",
         "name": "Sherlock Holmes Book Nook",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-10351-1_large.jpg",
@@ -1859,6 +1943,90 @@
         "subtheme": "None",
         "year": "2021",
         "price": "€679.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "10300",
+        "name": "Back to the Future Time Machine",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-10300-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-10300-1_large-1.jpg",
+        "pieces": "1,872",
+        "minifigs": "2",
+        "availability": "End of 2026",
+        "theme": "Icons",
+        "subtheme": "Licensed",
+        "year": "2022",
+        "price": "€199.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "10311",
+        "name": "Orchid",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-10311-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-10311-1_large-1.jpg",
+        "pieces": "608",
+        "minifigs": "",
+        "availability": "End of 2026",
+        "theme": "Icons",
+        "subtheme": "Botanical Collection",
+        "year": "2022",
+        "price": "€49.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "10313",
+        "name": "Wildflower Bouquet",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-10313-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-10313-1_large-1.jpg",
+        "pieces": "939",
+        "minifigs": "",
+        "availability": "End of 2026",
+        "theme": "Icons",
+        "subtheme": "Botanical Collection",
+        "year": "2023",
+        "price": "€59.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "10316",
+        "name": "The Lord of the Rings Rivendell",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-10316-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-10316-1_large-1.jpg",
+        "pieces": "6,167",
+        "minifigs": "21",
+        "availability": "End of 2026",
+        "theme": "Icons",
+        "subtheme": "Licensed",
+        "year": "2023",
+        "price": "€499.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "10315",
+        "name": "Tranquil Garden",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-10315-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-10315-1_large-1.jpg",
+        "pieces": "1,363",
+        "minifigs": "",
+        "availability": "Early to mid 2027",
+        "theme": "Icons",
+        "subtheme": "Gardens of the World",
+        "year": "2023",
+        "price": "€104.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "10329",
+        "name": "Tiny Plants",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-10329-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-10329-1_large-1.jpg",
+        "pieces": "758",
+        "minifigs": "",
+        "availability": "Early to mid 2027",
+        "theme": "Icons",
+        "subtheme": "Botanical Collection",
+        "year": "2024",
+        "price": "€49.99",
         "retail": "Available at retail"
     },
     {
@@ -2016,20 +2184,6 @@
         "retail": "Available at retail"
     },
     {
-        "id": "76970",
-        "name": "Baby Dinosaur Dolores Aquilops",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-76970-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76970-1_large-1.jpg",
-        "pieces": "339",
-        "minifigs": "",
-        "availability": "End of 2026",
-        "theme": "Jurassic World",
-        "subtheme": "Rebirth",
-        "year": "2025",
-        "price": "€24.99",
-        "retail": "Available at retail"
-    },
-    {
         "id": "76974",
         "name": "Brick-Built Mosasaurus Boat Mission",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-76974-1_large.jpg",
@@ -2054,20 +2208,6 @@
         "theme": "LEGO Art",
         "subtheme": "Paintings",
         "year": "2023",
-        "price": "€99.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "31213",
-        "name": "Mona Lisa",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-31213-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-31213-1_large-1.jpg",
-        "pieces": "1,503",
-        "minifigs": "",
-        "availability": "End of 2026",
-        "theme": "LEGO Art",
-        "subtheme": "Paintings",
-        "year": "2024",
         "price": "€99.99",
         "retail": "Available at retail"
     },
@@ -2198,20 +2338,6 @@
         "retail": "Available at retail"
     },
     {
-        "id": "21282",
-        "name": "The Parrot Houses",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-21282-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-21282-1_large-1.jpg",
-        "pieces": "535",
-        "minifigs": "3",
-        "availability": "End of 2026",
-        "theme": "Minecraft",
-        "subtheme": "Minifig-scale",
-        "year": "2025",
-        "price": "€69.99",
-        "retail": "Available at retail"
-    },
-    {
         "id": "21271",
         "name": "The Trial Chamber",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-21271-1_large.jpg",
@@ -2223,6 +2349,20 @@
         "subtheme": "Minifig-scale",
         "year": "2025",
         "price": "€39.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "21282",
+        "name": "The Parrot Houses",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-21282-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-21282-1_large-1.jpg",
+        "pieces": "535",
+        "minifigs": "3",
+        "availability": "End of 2026",
+        "theme": "Minecraft",
+        "subtheme": "Minifig-scale",
+        "year": "2025",
+        "price": "€69.99",
         "retail": "Available at retail"
     },
     {
@@ -2265,6 +2405,20 @@
         "subtheme": "Season 4",
         "year": "2023",
         "price": "€19.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "80054",
+        "name": "Megapolis City",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-80054-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-80054-1_large-1.jpg",
+        "pieces": "2,330",
+        "minifigs": "15",
+        "availability": "Early to mid 2027",
+        "theme": "Monkie Kid",
+        "subtheme": "Season 5",
+        "year": "2024",
+        "price": "€179.99",
         "retail": "Available at retail"
     },
     {
@@ -2338,20 +2492,6 @@
         "retail": "Available at retail"
     },
     {
-        "id": "71836",
-        "name": "Arc Dragon of Focus",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-71836-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-71836-1_large-1.jpg",
-        "pieces": "869",
-        "minifigs": "8",
-        "availability": "End of 2026",
-        "theme": "Ninjago",
-        "subtheme": "Dragons Rising Season 3",
-        "year": "2025",
-        "price": "€99.99",
-        "retail": "Available at retail"
-    },
-    {
         "id": "71837",
         "name": "NINJAGO City Workshops",
         "src": "https://www.brickeconomy.com/resources/images/sets/lego-71837-1_large.jpg",
@@ -2366,31 +2506,17 @@
         "retail": "Available at retail"
     },
     {
-        "id": "71843",
-        "name": "Rogue's Mech Dragon Rider",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-71843-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-71843-1_large-1.jpg",
-        "pieces": "584",
-        "minifigs": "4",
+        "id": "71836",
+        "name": "Arc Dragon of Focus",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-71836-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-71836-1_large-1.jpg",
+        "pieces": "869",
+        "minifigs": "8",
         "availability": "End of 2026",
         "theme": "Ninjago",
         "subtheme": "Dragons Rising Season 3",
         "year": "2025",
-        "price": "€69.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "71844",
-        "name": "Ninja Combat Vehicle",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-71844-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-71844-1_large-1.jpg",
-        "pieces": "561",
-        "minifigs": "6",
-        "availability": "End of 2026",
-        "theme": "Ninjago",
-        "subtheme": "Dragons Rising Season 3",
-        "year": "2025",
-        "price": "€89.99",
+        "price": "€99.99",
         "retail": "Available at retail"
     },
     {
@@ -2475,6 +2601,20 @@
         "subtheme": "Dragons Rising Season 4",
         "year": "2026",
         "price": "€79.99",
+        "retail": "Available at retail"
+    },
+    {
+        "id": "71780",
+        "name": "Kai's Ninja Race Car EVO",
+        "src": "https://www.brickeconomy.com/resources/images/sets/lego-71780-1_large.jpg",
+        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-71780-1_large-1.jpg",
+        "pieces": "94",
+        "minifigs": "1",
+        "availability": "End of 2026",
+        "theme": "Ninjago",
+        "subtheme": "Core",
+        "year": "2023",
+        "price": "€9.99",
         "retail": "Available at retail"
     },
     {
@@ -2657,146 +2797,6 @@
         "subtheme": "Formula 1",
         "year": "2025",
         "price": "€26.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "77250",
-        "name": "MoneyGram Haas F1 Team VF-24 Race Car",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-77250-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-77250-1_large-1.jpg",
-        "pieces": "242",
-        "minifigs": "1",
-        "availability": "End of 2026",
-        "theme": "Speed Champions",
-        "subtheme": "Formula 1",
-        "year": "2025",
-        "price": "€26.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "77249",
-        "name": "Williams Racing FW46 F1 Race Car",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-77249-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-77249-1_large-1.jpg",
-        "pieces": "263",
-        "minifigs": "1",
-        "availability": "End of 2026",
-        "theme": "Speed Champions",
-        "subtheme": "Formula 1",
-        "year": "2025",
-        "price": "€26.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "77248",
-        "name": "BWT Alpine F1 Team A524 Race Car",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-77248-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-77248-1_large-1.jpg",
-        "pieces": "258",
-        "minifigs": "1",
-        "availability": "End of 2026",
-        "theme": "Speed Champions",
-        "subtheme": "Formula 1",
-        "year": "2025",
-        "price": "€26.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "77246",
-        "name": "Cash App VCARB 01 F1 Race Car",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-77246-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-77246-1_large-1.jpg",
-        "pieces": "248",
-        "minifigs": "1",
-        "availability": "End of 2026",
-        "theme": "Speed Champions",
-        "subtheme": "Formula 1",
-        "year": "2025",
-        "price": "€26.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "77245",
-        "name": "Aston Martin Aramco F1 AMR24 Race Car",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-77245-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-77245-1_large-1.jpg",
-        "pieces": "269",
-        "minifigs": "1",
-        "availability": "End of 2026",
-        "theme": "Speed Champions",
-        "subtheme": "Formula 1",
-        "year": "2025",
-        "price": "€26.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "77244",
-        "name": "Mercedes-AMG PETRONAS W15 F1 Race Car",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-77244-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-77244-1_large-1.jpg",
-        "pieces": "267",
-        "minifigs": "1",
-        "availability": "End of 2026",
-        "theme": "Speed Champions",
-        "subtheme": "Formula 1",
-        "year": "2025",
-        "price": "€26.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "77243",
-        "name": "Oracle Red Bull Racing RB20 F1 Race Car",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-77243-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-77243-1_large-1.jpg",
-        "pieces": "251",
-        "minifigs": "1",
-        "availability": "End of 2026",
-        "theme": "Speed Champions",
-        "subtheme": "Formula 1",
-        "year": "2025",
-        "price": "€26.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "77242",
-        "name": "Ferrari SF-24 F1 Race Car",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-77242-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-77242-1_large-1.jpg",
-        "pieces": "275",
-        "minifigs": "1",
-        "availability": "End of 2026",
-        "theme": "Speed Champions",
-        "subtheme": "Formula 1",
-        "year": "2025",
-        "price": "€26.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "77259",
-        "name": "Audi Revolut F1 Team R26 Race Car",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-77259-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-77259-1_large-1.jpg",
-        "pieces": "216",
-        "minifigs": "1",
-        "availability": "End of 2026",
-        "theme": "Speed Champions",
-        "subtheme": "Formula 1",
-        "year": "2026",
-        "price": "€27.99",
-        "retail": "Available at retail"
-    },
-    {
-        "id": "75192",
-        "name": "Millennium Falcon",
-        "src": "https://www.brickeconomy.com/resources/images/sets/lego-75192-1_large.jpg",
-        "src2": "https://www.brickeconomy.com/resources/images/sets/lego-75192-1_large-1.jpg",
-        "pieces": "7,541",
-        "minifigs": "8",
-        "availability": "End of 2026",
-        "theme": "Star Wars",
-        "subtheme": "Ultimate Collector Series",
-        "year": "2017",
-        "price": "€849.99",
         "retail": "Available at retail"
     }
 ]
