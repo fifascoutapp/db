@@ -341,10 +341,10 @@
           "src": "https://www.brickeconomy.com/resources/images/sets/lego-11212-1_large.jpg",
           "src2": "https://www.brickeconomy.com/resources/images/sets/lego-11212-1_large-1.jpg",
           "pieces": "103",
-          "minifigs": "1",
+          "minifigs": "2",
           "availability": "Retail",
           "theme": "Gabby's Dollhouse",
-          "subtheme": "None",
+          "subtheme": "TV Series",
           "year": "2026",
           "price": "€14.99",
           "retail": "Available at retail"
@@ -543,6 +543,20 @@
           "subtheme": "Miscellaneous",
           "year": "2026",
           "price": "€219.99",
+          "retail": "Available at retail"
+     },
+     {
+          "id": "11379",
+          "name": "Bookend Bookstore",
+          "src": "https://www.brickeconomy.com/resources/images/sets/lego-11379-1_large.jpg",
+          "src2": "https://www.brickeconomy.com/resources/images/sets/lego-11379-1_large-1.jpg",
+          "pieces": "1,690",
+          "minifigs": "2",
+          "availability": "Retail",
+          "theme": "Icons",
+          "subtheme": "Bookstore: Book Nook",
+          "year": "2026",
+          "price": "€129.99",
           "retail": "Available at retail"
      },
      {
@@ -994,6 +1008,20 @@
           "retail": "Available at retail"
      },
      {
+          "id": "21371",
+          "name": "Wallace & Gromit",
+          "src": "https://www.brickeconomy.com/resources/images/sets/lego-21371-1_large.jpg",
+          "src2": "https://www.brickeconomy.com/resources/images/sets/lego-21371-1_large-1.jpg",
+          "pieces": "1,038",
+          "minifigs": "",
+          "availability": "Retail",
+          "theme": "Ideas",
+          "subtheme": "Licensed",
+          "year": "2026",
+          "price": "€99.99",
+          "retail": "Available at retail"
+     },
+     {
           "id": "21372",
           "name": "La Catrina",
           "src": "https://www.brickeconomy.com/resources/images/sets/lego-21372-1_large.jpg",
@@ -1005,6 +1033,20 @@
           "subtheme": "None",
           "year": "2026",
           "price": "€119.99",
+          "retail": "Available at retail"
+     },
+     {
+          "id": "21373",
+          "name": "Downton Abbey",
+          "src": "https://www.brickeconomy.com/resources/images/sets/lego-21373-1_large.jpg",
+          "src2": "https://www.brickeconomy.com/resources/images/sets/lego-21373-1_large-1.jpg",
+          "pieces": "4,711",
+          "minifigs": "13",
+          "availability": "Retail",
+          "theme": "Ideas",
+          "subtheme": "Licensed",
+          "year": "2026",
+          "price": "€299.99",
           "retail": "Available at retail"
      },
      {
@@ -1237,7 +1279,7 @@
           "src": "https://www.brickeconomy.com/resources/images/sets/lego-21597-1_large.jpg",
           "src2": "https://www.brickeconomy.com/resources/images/sets/lego-21597-1_large-1.jpg",
           "pieces": "754",
-          "minifigs": "5",
+          "minifigs": "4",
           "availability": "Retail",
           "theme": "Minecraft",
           "subtheme": "Minifig-scale",
@@ -1355,7 +1397,7 @@
           "subtheme": "Racing",
           "year": "2026",
           "price": "€3.99",
-          "retail": "€7.02"
+          "retail": "€7.03"
      },
      {
           "id": "30720",
@@ -1411,7 +1453,7 @@
           "subtheme": "Legacy",
           "year": "2026",
           "price": "€3.99",
-          "retail": "€9.68"
+          "retail": "€9.33"
      },
      {
           "id": "30724",
@@ -1579,7 +1621,7 @@
           "subtheme": "None",
           "year": "2026",
           "price": "€3.99",
-          "retail": "€6.53"
+          "retail": "€6.18"
      },
      {
           "id": "30736",
@@ -1607,7 +1649,7 @@
           "subtheme": "Batman",
           "year": "2026",
           "price": "",
-          "retail": ""
+          "retail": "€67.26"
      },
      {
           "id": "31218",
@@ -1943,7 +1985,7 @@
           "subtheme": "Chinese New Year",
           "year": "2026",
           "price": "",
-          "retail": "€9.67"
+          "retail": "€8.80"
      },
      {
           "id": "40856",
@@ -2016,6 +2058,20 @@
           "retail": "Available at retail"
      },
      {
+          "id": "40862",
+          "name": "Holiday Ornament Selection 2",
+          "src": "https://www.brickeconomy.com/resources/images/sets/lego-40862-1_large.jpg",
+          "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40862-1_large-1.jpg",
+          "pieces": "179",
+          "minifigs": "",
+          "availability": "Retail",
+          "theme": "Seasonal",
+          "subtheme": "Christmas",
+          "year": "2026",
+          "price": "€12.99",
+          "retail": "Available at retail"
+     },
+     {
           "id": "40863",
           "name": "Easter Egg Basket",
           "src": "https://www.brickeconomy.com/resources/images/sets/lego-40863-1_large.jpg",
@@ -2044,6 +2100,34 @@
           "retail": "Available at retail"
      },
      {
+          "id": "40865",
+          "name": "Buddy the Elf",
+          "src": "https://www.brickeconomy.com/resources/images/sets/lego-40865-1_large.jpg",
+          "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40865-1_large-1.jpg",
+          "pieces": "713",
+          "minifigs": "",
+          "availability": "Retail",
+          "theme": "Seasonal",
+          "subtheme": "Christmas",
+          "year": "2026",
+          "price": "€39.99",
+          "retail": "Available at retail"
+     },
+     {
+          "id": "40866",
+          "name": "Santa's Holiday Sleigh Adventure",
+          "src": "https://www.brickeconomy.com/resources/images/sets/lego-40866-1_large.jpg",
+          "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40866-1_large-1.jpg",
+          "pieces": "187",
+          "minifigs": "2",
+          "availability": "Retail",
+          "theme": "Seasonal",
+          "subtheme": "Christmas",
+          "year": "2026",
+          "price": "€29.99",
+          "retail": "Available at retail"
+     },
+     {
           "id": "40867",
           "name": "Love Letters",
           "src": "https://www.brickeconomy.com/resources/images/sets/lego-40867-1_large.jpg",
@@ -2055,6 +2139,20 @@
           "subtheme": "Valentine's Day",
           "year": "2026",
           "price": "€19.99",
+          "retail": "Available at retail"
+     },
+     {
+          "id": "40868",
+          "name": "Up-Scaled Red Minifigure",
+          "src": "https://www.brickeconomy.com/resources/images/sets/lego-40868-1_large.jpg",
+          "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40868-1_large-1.jpg",
+          "pieces": "930",
+          "minifigs": "",
+          "availability": "Retail",
+          "theme": "Pokémon",
+          "subtheme": "Up-Scaled Minifigure",
+          "year": "2026",
+          "price": "€79.99",
           "retail": "Available at retail"
      },
      {
@@ -2097,6 +2195,34 @@
           "subtheme": "Dia de los Muertos",
           "year": "2026",
           "price": "€19.99",
+          "retail": "Available at retail"
+     },
+     {
+          "id": "40874",
+          "name": "Santa's Holiday Countdown",
+          "src": "https://www.brickeconomy.com/resources/images/sets/lego-40874-1_large.jpg",
+          "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40874-1_large-1.jpg",
+          "pieces": "873",
+          "minifigs": "",
+          "availability": "Retail",
+          "theme": "Seasonal",
+          "subtheme": "Christmas",
+          "year": "2026",
+          "price": "€59.99",
+          "retail": "Available at retail"
+     },
+     {
+          "id": "40875",
+          "name": "Up-Scaled Mrs. Claus Minifigure",
+          "src": "https://www.brickeconomy.com/resources/images/sets/lego-40875-1_large.jpg",
+          "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40875-1_large-1.jpg",
+          "pieces": "904",
+          "minifigs": "",
+          "availability": "Retail",
+          "theme": "Seasonal",
+          "subtheme": "Christmas",
+          "year": "2026",
+          "price": "€59.99",
           "retail": "Available at retail"
      },
      {
@@ -2167,7 +2293,7 @@
           "subtheme": "Promotional",
           "year": "2026",
           "price": "",
-          "retail": "€21.99"
+          "retail": "€22.00"
      },
      {
           "id": "40886",
@@ -2195,7 +2321,7 @@
           "subtheme": "SMART Play",
           "year": "2026",
           "price": "",
-          "retail": "€60.61"
+          "retail": "€57.83"
      },
      {
           "id": "40890",
@@ -2223,7 +2349,7 @@
           "subtheme": "Stranger Things",
           "year": "2026",
           "price": "",
-          "retail": "€98.38"
+          "retail": "€105.60"
      },
      {
           "id": "40892",
@@ -2237,7 +2363,7 @@
           "subtheme": "Promotional",
           "year": "2026",
           "price": "",
-          "retail": "€131.60"
+          "retail": "€127.13"
      },
      {
           "id": "40893",
@@ -2251,7 +2377,7 @@
           "subtheme": "The Lord of the Rings",
           "year": "2026",
           "price": "",
-          "retail": "€131.99"
+          "retail": "€127.60"
      },
      {
           "id": "40894",
@@ -2265,7 +2391,7 @@
           "subtheme": "Gift with Purchase",
           "year": "2026",
           "price": "",
-          "retail": "€66.70"
+          "retail": "€69.65"
      },
      {
           "id": "40896",
@@ -2279,7 +2405,35 @@
           "subtheme": "Promotional",
           "year": "2026",
           "price": "",
-          "retail": "€79.60"
+          "retail": "€80.55"
+     },
+     {
+          "id": "40897",
+          "name": "Darth Vader's Lightsaber",
+          "src": "https://www.brickeconomy.com/resources/images/sets/lego-40897-1_large.jpg",
+          "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40897-1_large-1.jpg",
+          "pieces": "174",
+          "minifigs": "",
+          "availability": "Retired",
+          "theme": "Star Wars",
+          "subtheme": "Promotional",
+          "year": "2026",
+          "price": "",
+          "retail": ""
+     },
+     {
+          "id": "40899",
+          "name": "Astro Bot",
+          "src": "https://www.brickeconomy.com/resources/images/sets/lego-40899-1_large.jpg",
+          "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40899-1_large-1.jpg",
+          "pieces": "276",
+          "minifigs": "",
+          "availability": "Retired",
+          "theme": "PlayStation",
+          "subtheme": "Promotional",
+          "year": "2026",
+          "price": "",
+          "retail": "€65.17"
      },
      {
           "id": "40900",
@@ -2293,7 +2447,7 @@
           "subtheme": "Seasonal",
           "year": "2026",
           "price": "€19.99",
-          "retail": "I own this set\n\n\n\n\n I want this set"
+          "retail": "€28.15"
      },
      {
           "id": "40901",
@@ -2321,7 +2475,7 @@
           "subtheme": "Gift with Purchase",
           "year": "2026",
           "price": "",
-          "retail": "€24.76"
+          "retail": "€25.51"
      },
      {
           "id": "40905",
@@ -2335,7 +2489,7 @@
           "subtheme": "Birthday",
           "year": "2026",
           "price": "",
-          "retail": "€19.98"
+          "retail": "€19.63"
      },
      {
           "id": "40906",
@@ -2349,7 +2503,7 @@
           "subtheme": "Restaurants of the World",
           "year": "2026",
           "price": "",
-          "retail": "€30.79"
+          "retail": "€30.78"
      },
      {
           "id": "40907",
@@ -2363,7 +2517,7 @@
           "subtheme": "Restaurants of the World",
           "year": "2026",
           "price": "",
-          "retail": "€52.45"
+          "retail": "€55.01"
      },
      {
           "id": "40908",
@@ -2377,7 +2531,7 @@
           "subtheme": "Restaurants of the World",
           "year": "2026",
           "price": "",
-          "retail": "€40.47"
+          "retail": "€43.99"
      },
      {
           "id": "40910",
@@ -2405,7 +2559,7 @@
           "subtheme": "Promotional",
           "year": "2026",
           "price": "",
-          "retail": "€73.68"
+          "retail": "€73.57"
      },
      {
           "id": "40912",
@@ -2419,7 +2573,7 @@
           "subtheme": "Promotional",
           "year": "2026",
           "price": "",
-          "retail": "€43.96"
+          "retail": "€38.90"
      },
      {
           "id": "40913",
@@ -2433,7 +2587,7 @@
           "subtheme": "Promotional",
           "year": "2026",
           "price": "",
-          "retail": "€16.11"
+          "retail": "€15.50"
      },
      {
           "id": "40915",
@@ -2447,7 +2601,7 @@
           "subtheme": "Chinese Traditional Festivals",
           "year": "2026",
           "price": "€29.99",
-          "retail": "€28.17"
+          "retail": "€32.94"
      },
      {
           "id": "40916",
@@ -2461,7 +2615,7 @@
           "subtheme": "Botanical Collection",
           "year": "2026",
           "price": "",
-          "retail": "€37.53"
+          "retail": "€40.67"
      },
      {
           "id": "40917",
@@ -2475,7 +2629,7 @@
           "subtheme": "Promotional",
           "year": "2026",
           "price": "",
-          "retail": "€40.48"
+          "retail": "€43.26"
      },
      {
           "id": "40919",
@@ -2660,6 +2814,20 @@
           "retail": "Available at retail"
      },
      {
+          "id": "40958",
+          "name": "Christmas Stocking",
+          "src": "https://www.brickeconomy.com/resources/images/sets/lego-40958-1_large.jpg",
+          "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40958-1_large-1.jpg",
+          "pieces": "342",
+          "minifigs": "1",
+          "availability": "Retail",
+          "theme": "Seasonal",
+          "subtheme": "Christmas",
+          "year": "2026",
+          "price": "€34.99",
+          "retail": "Available at retail"
+     },
+     {
           "id": "40972",
           "name": "Crocs LEGO Brick Clog",
           "src": "https://www.brickeconomy.com/resources/images/sets/lego-40972-1_large.jpg",
@@ -2685,7 +2853,7 @@
           "subtheme": "Minifigure",
           "year": "2026",
           "price": "",
-          "retail": "€31.26"
+          "retail": "€27.95"
      },
      {
           "id": "40975",
@@ -3536,7 +3704,7 @@
           "minifigs": "3",
           "availability": "Retail",
           "theme": "Friends",
-          "subtheme": "None",
+          "subtheme": "Amusement Park",
           "year": "2026",
           "price": "€39.99",
           "retail": "Available at retail"
@@ -3578,7 +3746,7 @@
           "minifigs": "4",
           "availability": "Retail",
           "theme": "Friends",
-          "subtheme": "None",
+          "subtheme": "Great Outdoors",
           "year": "2026",
           "price": "€99.99",
           "retail": "Available at retail"
@@ -3900,7 +4068,7 @@
           "minifigs": "2",
           "availability": "Retail",
           "theme": "Disney",
-          "subtheme": "None",
+          "subtheme": "Lilo and Stitch",
           "year": "2026",
           "price": "€19.99",
           "retail": "Available at retail"
@@ -3925,7 +4093,7 @@
           "src": "https://www.brickeconomy.com/resources/images/sets/lego-43282-1_large.jpg",
           "src2": "https://www.brickeconomy.com/resources/images/sets/lego-43282-1_large-1.jpg",
           "pieces": "85",
-          "minifigs": "1",
+          "minifigs": "2",
           "availability": "Retail",
           "theme": "Disney",
           "subtheme": "Moana",
@@ -3942,7 +4110,7 @@
           "minifigs": "1",
           "availability": "Retail",
           "theme": "Disney",
-          "subtheme": "None",
+          "subtheme": "Cinderella",
           "year": "2026",
           "price": "€29.99",
           "retail": "Available at retail"
@@ -4026,7 +4194,7 @@
           "minifigs": "2",
           "availability": "Retail",
           "theme": "Disney",
-          "subtheme": "None",
+          "subtheme": "Beauty and the Beast",
           "year": "2026",
           "price": "€39.99",
           "retail": "Available at retail"
@@ -4096,7 +4264,7 @@
           "minifigs": "2",
           "availability": "Retail",
           "theme": "Disney",
-          "subtheme": "None",
+          "subtheme": "Tangled",
           "year": "2026",
           "price": "€19.99",
           "retail": "Available at retail"
@@ -4110,7 +4278,7 @@
           "minifigs": "2",
           "availability": "Retail",
           "theme": "Disney",
-          "subtheme": "None",
+          "subtheme": "Aladdin",
           "year": "2026",
           "price": "€49.99",
           "retail": "Available at retail"
@@ -4138,7 +4306,7 @@
           "minifigs": "4",
           "availability": "Retail",
           "theme": "Disney",
-          "subtheme": "None",
+          "subtheme": "Tangled",
           "year": "2026",
           "price": "€99.99",
           "retail": "Available at retail"
@@ -4152,7 +4320,7 @@
           "minifigs": "4",
           "availability": "Retail",
           "theme": "Disney",
-          "subtheme": "None",
+          "subtheme": "The Little Mermaid",
           "year": "2026",
           "price": "€69.99",
           "retail": "Available at retail"
@@ -4670,7 +4838,7 @@
           "minifigs": "5",
           "availability": "Retail",
           "theme": "City",
-          "subtheme": "None",
+          "subtheme": "General",
           "year": "2026",
           "price": "€49.99",
           "retail": "Available at retail"
@@ -4684,7 +4852,7 @@
           "minifigs": "4",
           "availability": "Retail",
           "theme": "City",
-          "subtheme": "None",
+          "subtheme": "General",
           "year": "2026",
           "price": "€54.99",
           "retail": "Available at retail"
@@ -4897,7 +5065,7 @@
           "subtheme": "None",
           "year": "2026",
           "price": "€44.99",
-          "retail": "€34.54"
+          "retail": "€35.19"
      },
      {
           "id": "66818",
@@ -5023,7 +5191,7 @@
           "subtheme": "Animals Series 28",
           "year": "2026",
           "price": "€3.99",
-          "retail": "€4.84"
+          "retail": "€5.03"
      },
      {
           "id": "Peacock Costume Guy",
@@ -5051,7 +5219,7 @@
           "subtheme": "Animals Series 28",
           "year": "2026",
           "price": "€3.99",
-          "retail": "€8.51"
+          "retail": "€8.25"
      },
      {
           "id": "Goldfish Costume Girl",
@@ -5079,7 +5247,7 @@
           "subtheme": "Animals Series 28",
           "year": "2026",
           "price": "€3.99",
-          "retail": "€6.12"
+          "retail": "€6.09"
      },
      {
           "id": "Frog Costume Guy",
@@ -5107,7 +5275,7 @@
           "subtheme": "Animals Series 28",
           "year": "2026",
           "price": "€3.99",
-          "retail": "€9.09"
+          "retail": "€11.71"
      },
      {
           "id": "Dalmatian Costume Guy",
@@ -5121,7 +5289,7 @@
           "subtheme": "Animals Series 28",
           "year": "2026",
           "price": "€3.99",
-          "retail": "€10.96"
+          "retail": "€5.24"
      },
      {
           "id": "Crocodile Costume Girl",
@@ -5149,7 +5317,7 @@
           "subtheme": "Animals Series 28",
           "year": "2026",
           "price": "€3.99",
-          "retail": "€5.34"
+          "retail": "€5.40"
      },
      {
           "id": "Bunny Costume Girl",
@@ -5163,7 +5331,7 @@
           "subtheme": "Animals Series 28",
           "year": "2026",
           "price": "€3.99",
-          "retail": "€5.24"
+          "retail": "€5.32"
      },
      {
           "id": "Lion Costume Girl",
@@ -5177,7 +5345,7 @@
           "subtheme": "Animals Series 28",
           "year": "2026",
           "price": "€3.99",
-          "retail": "€8.98"
+          "retail": "€7.88"
      },
      {
           "id": "Parrot Costume Girl",
@@ -5191,7 +5359,7 @@
           "subtheme": "Animals Series 28",
           "year": "2026",
           "price": "€3.99",
-          "retail": "€11.32"
+          "retail": "€9.67"
      },
      {
           "id": "Animals Series 28 Complete Set",
@@ -5219,7 +5387,7 @@
           "subtheme": "Animals Series 28",
           "year": "2026",
           "price": "€143.64",
-          "retail": "€149.95"
+          "retail": "€146.49"
      },
      {
           "id": "Series 29 Random Pack",
@@ -6720,6 +6888,20 @@
           "retail": "Available at retail"
      },
      {
+          "id": "75457",
+          "name": "Executor Super Star Destroyer",
+          "src": "https://www.brickeconomy.com/resources/images/sets/lego-75457-1_large.jpg",
+          "src2": "https://www.brickeconomy.com/resources/images/sets/lego-75457-1_large-1.jpg",
+          "pieces": "6,130",
+          "minifigs": "7",
+          "availability": "Retail",
+          "theme": "Star Wars",
+          "subtheme": "Ultimate Collector Series",
+          "year": "2026",
+          "price": "€749.99",
+          "retail": "Available at retail"
+     },
+     {
           "id": "75458",
           "name": "Imperial Remnant AT-RT Driver Helmet",
           "src": "https://www.brickeconomy.com/resources/images/sets/lego-75458-1_large.jpg",
@@ -7098,6 +7280,20 @@
           "retail": "Available at retail"
      },
      {
+          "id": "76347",
+          "name": "Quinjet",
+          "src": "https://www.brickeconomy.com/resources/images/sets/lego-76347-1_large.jpg",
+          "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76347-1_large-1.jpg",
+          "pieces": "433",
+          "minifigs": "4",
+          "availability": "Retail",
+          "theme": "Marvel Super Heroes",
+          "subtheme": "Avengers Doomsday",
+          "year": "2026",
+          "price": "€59.99",
+          "retail": "Available at retail"
+     },
+     {
           "id": "76349",
           "name": "Spider-Man Prison Transport Chase",
           "src": "https://www.brickeconomy.com/resources/images/sets/lego-76349-1_large.jpg",
@@ -7123,6 +7319,20 @@
           "subtheme": "Spider-Man",
           "year": "2026",
           "price": "€89.99",
+          "retail": "Available at retail"
+     },
+     {
+          "id": "76352",
+          "name": "New Avengers Tower",
+          "src": "https://www.brickeconomy.com/resources/images/sets/lego-76352-1_large.jpg",
+          "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76352-1_large-1.jpg",
+          "pieces": "954",
+          "minifigs": "6",
+          "availability": "Retail",
+          "theme": "Marvel Super Heroes",
+          "subtheme": "Avengers Doomsday",
+          "year": "2026",
+          "price": "€109.99",
           "retail": "Available at retail"
      },
      {
@@ -7403,6 +7613,34 @@
           "subtheme": "Miscellaneous",
           "year": "2026",
           "price": "€119.99",
+          "retail": "Available at retail"
+     },
+     {
+          "id": "76787",
+          "name": "Wednesday Backpack",
+          "src": "https://www.brickeconomy.com/resources/images/sets/lego-76787-1_large.jpg",
+          "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76787-1_large-1.jpg",
+          "pieces": "401",
+          "minifigs": "1",
+          "availability": "Retail",
+          "theme": "Wednesday",
+          "subtheme": "None",
+          "year": "2026",
+          "price": "€39.99",
+          "retail": "Available at retail"
+     },
+     {
+          "id": "76788",
+          "name": "Nevermore Academy",
+          "src": "https://www.brickeconomy.com/resources/images/sets/lego-76788-1_large.jpg",
+          "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76788-1_large-1.jpg",
+          "pieces": "890",
+          "minifigs": "3",
+          "availability": "Retail",
+          "theme": "Wednesday",
+          "subtheme": "Miscellaneous",
+          "year": "2026",
+          "price": "€69.99",
           "retail": "Available at retail"
      },
      {
@@ -7893,7 +8131,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€6.17"
+          "retail": "€6.13"
      },
      {
           "id": "122506",
@@ -7907,7 +8145,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€3.78"
+          "retail": "€4.01"
      },
      {
           "id": "122507",
@@ -7921,7 +8159,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€4.04"
+          "retail": "€4.27"
      },
      {
           "id": "122509",
@@ -7935,7 +8173,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€3.54"
+          "retail": "€3.49"
      },
      {
           "id": "212601",
@@ -7949,7 +8187,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€6.37"
+          "retail": "€5.87"
      },
      {
           "id": "910059",
@@ -7963,7 +8201,7 @@
           "subtheme": "Designer Program Series 7",
           "year": "2026",
           "price": "€349.99",
-          "retail": "€483.72"
+          "retail": "€483.98"
      },
      {
           "id": "910060",
@@ -7977,7 +8215,7 @@
           "subtheme": "Designer Program Series 7",
           "year": "2026",
           "price": "€279.99",
-          "retail": "€360.79"
+          "retail": "€370.30"
      },
      {
           "id": "910061",
@@ -7991,7 +8229,7 @@
           "subtheme": "Designer Program Series 7",
           "year": "2026",
           "price": "€109.99",
-          "retail": "€175.99"
+          "retail": "€175.72"
      },
      {
           "id": "910062",
@@ -8005,7 +8243,7 @@
           "subtheme": "Designer Program Series 7",
           "year": "2026",
           "price": "€199.99",
-          "retail": "€314.25"
+          "retail": "€330.00"
      },
      {
           "id": "910063",
@@ -8019,7 +8257,7 @@
           "subtheme": "Designer Program Series 7",
           "year": "2026",
           "price": "€39.99",
-          "retail": "€65.51"
+          "retail": "€68.52"
      },
      {
           "id": "910064",
@@ -8033,7 +8271,7 @@
           "subtheme": "Designer Program Series 8",
           "year": "2026",
           "price": "€349.99",
-          "retail": "€479.27"
+          "retail": "€483.67"
      },
      {
           "id": "910065",
@@ -8047,7 +8285,7 @@
           "subtheme": "Designer Program Series 8",
           "year": "2026",
           "price": "€209.99",
-          "retail": "€345.78"
+          "retail": "€307.73"
      },
      {
           "id": "910066",
@@ -8089,7 +8327,7 @@
           "subtheme": "Designer Program Series 8",
           "year": "2026",
           "price": "€359.99",
-          "retail": "€546.64"
+          "retail": "€531.80"
      },
      {
           "id": "912601",
@@ -8131,7 +8369,21 @@
           "subtheme": "LEGO Inside Tour Exclusive",
           "year": "2026",
           "price": "",
-          "retail": "€8,712.00"
+          "retail": "€8,270.91"
+     },
+     {
+          "id": "4000351",
+          "name": "FIFA World Cup Official Trophy - Champions Edition",
+          "src": "https://www.brickeconomy.com/resources/images/sets/lego-4000351-1_large.jpg",
+          "src2": "https://www.brickeconomy.com/resources/images/sets/lego-4000351-1_large-1.jpg",
+          "pieces": "2,845",
+          "minifigs": "1",
+          "availability": "Exclusive",
+          "theme": "Editions",
+          "subtheme": "FIFA",
+          "year": "2026",
+          "price": "€199.99",
+          "retail": "Available at retail"
      },
      {
           "id": "4000703",
@@ -8145,7 +8397,7 @@
           "subtheme": "SMART Play",
           "year": "2026",
           "price": "",
-          "retail": "€15.84"
+          "retail": "€15.58"
      },
      {
           "id": "5009620",
@@ -8173,7 +8425,7 @@
           "subtheme": "Botanical Collection",
           "year": "2026",
           "price": "",
-          "retail": "€39.31"
+          "retail": "€39.44"
      },
      {
           "id": "5010053",
@@ -8187,7 +8439,7 @@
           "subtheme": "Miscellaneous",
           "year": "2026",
           "price": "",
-          "retail": "€30.80"
+          "retail": "€32.94"
      },
      {
           "id": "5010057",
@@ -8215,7 +8467,7 @@
           "subtheme": "Insiders Reward",
           "year": "2026",
           "price": "",
-          "retail": "€21.99"
+          "retail": "€22.40"
      },
      {
           "id": "5010173",
@@ -8285,7 +8537,7 @@
           "subtheme": "Promotional",
           "year": "2026",
           "price": "",
-          "retail": "€26.79"
+          "retail": "€30.30"
      },
      {
           "id": "5011093",
@@ -8299,7 +8551,7 @@
           "subtheme": "Promotional",
           "year": "2026",
           "price": "",
-          "retail": "€43.98"
+          "retail": "€39.59"
      },
      {
           "id": "6614210",
@@ -8383,7 +8635,7 @@
           "subtheme": "Promotional",
           "year": "2026",
           "price": "",
-          "retail": "€17.33"
+          "retail": "€19.30"
      },
      {
           "id": "6626053",
@@ -8481,7 +8733,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€5.65"
+          "retail": "€5.90"
      },
      {
           "id": "L0002200 Dragon Jay",
@@ -8495,7 +8747,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€7.37"
+          "retail": "€7.62"
      },
      {
           "id": "L0002201 Dragon Lloyd",
@@ -8509,7 +8761,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€8.09"
+          "retail": "€7.68"
      },
      {
           "id": "L0002202 Earth Monster",
@@ -8537,7 +8789,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€5.24"
+          "retail": "€5.41"
      },
      {
           "id": "L0002204 Dragon Kai",
@@ -8551,7 +8803,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€5.82"
+          "retail": "€5.90"
      },
      {
           "id": "L0002205 Dragon Zane",
@@ -8565,7 +8817,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€6.86"
+          "retail": "€6.73"
      },
      {
           "id": "L0002206 Cole",
@@ -8579,7 +8831,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€9.61"
+          "retail": "€9.25"
      },
      {
           "id": "L0002207 Acid Monster",
@@ -8593,7 +8845,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€6.60"
+          "retail": "€7.37"
      },
      {
           "id": "L0002212 Zane-Mech",
@@ -8607,7 +8859,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€7.29"
+          "retail": "€6.91"
      },
      {
           "id": "L0002213 Kai vs Rox",
@@ -8635,7 +8887,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€7.10"
+          "retail": "€7.08"
      },
      {
           "id": "L0002215 Nya and Grimfax",
@@ -8649,7 +8901,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€9.52"
+          "retail": "€9.20"
      },
      {
           "id": "L0002220 Police Officer with Snowmobile",
@@ -8663,7 +8915,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€3.47"
+          "retail": "€3.55"
      },
      {
           "id": "L0002221 Construction Worker with Bulldozer",
@@ -8719,7 +8971,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€2.80"
+          "retail": "€2.81"
      },
      {
           "id": "L0002226 Beach Quad",
@@ -8747,7 +8999,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€5.20"
+          "retail": "€5.24"
      },
      {
           "id": "L0002233 Phase 2 Clone Pilot",
@@ -8761,7 +9013,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€5.70"
+          "retail": "€5.85"
      },
      {
           "id": "L0002234 Anakin Skywalker",
@@ -8775,7 +9027,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€6.53"
+          "retail": "€6.74"
      },
      {
           "id": "L0002235 Commando Droid",
@@ -8789,7 +9041,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€8.51"
+          "retail": "€8.80"
      },
      {
           "id": "L0002236 Republic Gunship",
@@ -8803,7 +9055,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€6.12"
+          "retail": "€5.76"
      },
      {
           "id": "L0002237 Galactic Marine",
@@ -8817,7 +9069,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€12.06"
+          "retail": "€12.64"
      },
      {
           "id": "L0002238 327th Star Corps Clone Trooper",
@@ -8845,7 +9097,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€5.44"
+          "retail": "€5.50"
      },
      {
           "id": "L0002240 Clone Trooper",
@@ -8859,7 +9111,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€9.23"
+          "retail": "€7.62"
      },
      {
           "id": "L0002245 Jango Fett",
@@ -8873,7 +9125,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€17.25"
+          "retail": "€17.59"
      },
      {
           "id": "L0002245-2 Jango Fett",
@@ -8901,7 +9153,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€3.79"
+          "retail": "€3.85"
      },
      {
           "id": "L0002247 Realm Raider with Creeper and TNT Launcher",
@@ -8915,7 +9167,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€4.54"
+          "retail": "€4.57"
      },
      {
           "id": "L0002248 Hero and Blaze",
@@ -8929,7 +9181,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€5.19"
+          "retail": "€5.28"
      },
      {
           "id": "L0002249 Hero with Illager",
@@ -8943,7 +9195,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€3.73"
+          "retail": "€3.70"
      },
      {
           "id": "L0002250 Blacksmith with Armour and Smithing Table",
@@ -8957,7 +9209,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€4.07"
+          "retail": "€4.08"
      },
      {
           "id": "L0002251 Cactus Knight with Breeze",
@@ -8971,7 +9223,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€4.50"
+          "retail": "€4.30"
      },
      {
           "id": "L0002252 Space Sentinel with Enderman and Endermite",
@@ -8985,7 +9237,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€6.64"
+          "retail": "€6.69"
      },
      {
           "id": "L0002260 Magma Cube",
@@ -8999,7 +9251,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€5.85"
+          "retail": "€5.53"
      },
      {
           "id": "L0002261 Raptor and Volcano",
@@ -9013,7 +9265,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€3.83"
+          "retail": "€4.06"
      },
      {
           "id": "L0002265 Nugget at Veterinary Station",
@@ -9041,7 +9293,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€6.54"
+          "retail": "€5.84"
      },
      {
           "id": "L0002271 Batman with Grappling Hook and Batarang",
@@ -9055,7 +9307,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€4.29"
+          "retail": "€4.09"
      },
      {
           "id": "L0002272 Bane with Prison Cell",
@@ -9069,7 +9321,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€8.62"
+          "retail": "€10.08"
      },
      {
           "id": "L0002273 The Riddler",
@@ -9097,7 +9349,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€3.70"
+          "retail": "€3.77"
      },
      {
           "id": "L0002277 Iron Man Meta Box",
@@ -9111,7 +9363,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€7.89"
+          "retail": "€7.85"
      },
      {
           "id": "L0002277-2 Iron Man Metal Box",
@@ -9125,7 +9377,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€8.46"
+          "retail": "€8.13"
      },
      {
           "id": "L0002278 Hulk vs Red Hulk",
@@ -9139,7 +9391,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€9.17"
+          "retail": "€8.76"
      },
      {
           "id": "L0002279 Iron Patriot",
@@ -9153,7 +9405,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€8.39"
+          "retail": "€8.42"
      },
      {
           "id": "L0002282 Venom with Mech",
@@ -9181,7 +9433,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€4.88"
+          "retail": "€4.79"
      },
      {
           "id": "L0002284 Anti-Venom",
@@ -9195,7 +9447,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€7.71"
+          "retail": "€7.15"
      },
      {
           "id": "L0002285 Spider-Man",
@@ -9209,7 +9461,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€8.03"
+          "retail": "€7.95"
      },
      {
           "id": "L0002285-2 Spider-Man (Mask Shaped Box Version)",
@@ -9237,7 +9489,7 @@
           "subtheme": "Magazine Gifts",
           "year": "2026",
           "price": "",
-          "retail": "€7.79"
+          "retail": "€7.13"
      },
      {
           "id": "L0002291 Super Sports Car",
@@ -9372,12 +9624,12 @@
           "src2": "https://www.brickeconomy.com/resources/images/sets/lego-4000351-1_large-1.jpg",
           "pieces": "2,845",
           "minifigs": "1",
-          "availability": "Pending release",
+          "availability": "Exclusive",
           "theme": "Editions",
           "subtheme": "FIFA",
-          "year": "2026",
+          "year": "October 1, 2026",
           "price": "€199.99",
-          "retail": "1 October"
+          "retail": "Available at retail"
      },
      {
           "id": "11379",
@@ -9386,12 +9638,12 @@
           "src2": "https://www.brickeconomy.com/resources/images/sets/lego-11379-1_large-1.jpg",
           "pieces": "1,690",
           "minifigs": "2",
-          "availability": "Pending release",
+          "availability": "Retail",
           "theme": "Icons",
           "subtheme": "Bookstore: Book Nook",
-          "year": "2026",
+          "year": "October 1, 2026",
           "price": "€129.99",
-          "retail": "1 October"
+          "retail": "Available at retail"
      },
      {
           "id": "11387",
@@ -9414,12 +9666,12 @@
           "src2": "https://www.brickeconomy.com/resources/images/sets/lego-21373-1_large-1.jpg",
           "pieces": "4,711",
           "minifigs": "13",
-          "availability": "Pending release",
+          "availability": "Retail",
           "theme": "Ideas",
           "subtheme": "Licensed",
-          "year": "2026",
+          "year": "October 1, 2026",
           "price": "€299.99",
-          "retail": "1 October"
+          "retail": "Available at retail"
      },
      {
           "id": "21371",
@@ -9428,12 +9680,12 @@
           "src2": "https://www.brickeconomy.com/resources/images/sets/lego-21371-1_large-1.jpg",
           "pieces": "1,038",
           "minifigs": "",
-          "availability": "Pending release",
+          "availability": "Retail",
           "theme": "Ideas",
           "subtheme": "Licensed",
-          "year": "2026",
+          "year": "October 1, 2026",
           "price": "€99.99",
-          "retail": "1 October"
+          "retail": "Available at retail"
      },
      {
           "id": "76347",
@@ -9442,12 +9694,12 @@
           "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76347-1_large-1.jpg",
           "pieces": "433",
           "minifigs": "4",
-          "availability": "Pending release",
+          "availability": "Retail",
           "theme": "Marvel Super Heroes",
           "subtheme": "Avengers Doomsday",
-          "year": "2026",
+          "year": "October 1, 2026",
           "price": "€59.99",
-          "retail": "1 October"
+          "retail": "Available at retail"
      },
      {
           "id": "76352",
@@ -9456,12 +9708,12 @@
           "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76352-1_large-1.jpg",
           "pieces": "954",
           "minifigs": "6",
-          "availability": "Pending release",
+          "availability": "Retail",
           "theme": "Marvel Super Heroes",
           "subtheme": "Avengers Doomsday",
-          "year": "2026",
+          "year": "October 1, 2026",
           "price": "€109.99",
-          "retail": "1 October"
+          "retail": "Available at retail"
      },
      {
           "id": "76348",
@@ -9498,12 +9750,12 @@
           "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40868-1_large-1.jpg",
           "pieces": "930",
           "minifigs": "",
-          "availability": "Pending release",
+          "availability": "Retail",
           "theme": "Pokémon",
           "subtheme": "Up-Scaled Minifigure",
-          "year": "2026",
+          "year": "October 1, 2026",
           "price": "€79.99",
-          "retail": "1 October"
+          "retail": "Available at retail"
      },
      {
           "id": "40875",
@@ -9512,12 +9764,12 @@
           "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40875-1_large-1.jpg",
           "pieces": "904",
           "minifigs": "",
-          "availability": "Pending release",
+          "availability": "Retail",
           "theme": "Seasonal",
           "subtheme": "Christmas",
-          "year": "2026",
+          "year": "October 1, 2026",
           "price": "€59.99",
-          "retail": "1 October"
+          "retail": "Available at retail"
      },
      {
           "id": "40874",
@@ -9526,12 +9778,12 @@
           "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40874-1_large-1.jpg",
           "pieces": "873",
           "minifigs": "",
-          "availability": "Pending release",
+          "availability": "Retail",
           "theme": "Seasonal",
           "subtheme": "Christmas",
-          "year": "2026",
+          "year": "October 1, 2026",
           "price": "€59.99",
-          "retail": "1 October"
+          "retail": "Available at retail"
      },
      {
           "id": "40866",
@@ -9540,12 +9792,12 @@
           "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40866-1_large-1.jpg",
           "pieces": "187",
           "minifigs": "2",
-          "availability": "Pending release",
+          "availability": "Retail",
           "theme": "Seasonal",
           "subtheme": "Christmas",
-          "year": "2026",
+          "year": "October 1, 2026",
           "price": "€29.99",
-          "retail": "1 October"
+          "retail": "Available at retail"
      },
      {
           "id": "40865",
@@ -9554,12 +9806,12 @@
           "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40865-1_large-1.jpg",
           "pieces": "713",
           "minifigs": "",
-          "availability": "Pending release",
+          "availability": "Retail",
           "theme": "Seasonal",
           "subtheme": "Christmas",
-          "year": "2026",
+          "year": "October 1, 2026",
           "price": "€39.99",
-          "retail": "1 October"
+          "retail": "Available at retail"
      },
      {
           "id": "40862",
@@ -9568,12 +9820,12 @@
           "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40862-1_large-1.jpg",
           "pieces": "179",
           "minifigs": "",
-          "availability": "Pending release",
+          "availability": "Retail",
           "theme": "Seasonal",
           "subtheme": "Christmas",
-          "year": "2026",
+          "year": "October 1, 2026",
           "price": "€12.99",
-          "retail": "1 October"
+          "retail": "Available at retail"
      },
      {
           "id": "40958",
@@ -9582,12 +9834,12 @@
           "src2": "https://www.brickeconomy.com/resources/images/sets/lego-40958-1_large-1.jpg",
           "pieces": "342",
           "minifigs": "1",
-          "availability": "Pending release",
+          "availability": "Retail",
           "theme": "Seasonal",
           "subtheme": "Christmas",
-          "year": "2026",
+          "year": "October 1, 2026",
           "price": "€34.99",
-          "retail": "1 October"
+          "retail": "Available at retail"
      },
      {
           "id": "75457",
@@ -9596,12 +9848,12 @@
           "src2": "https://www.brickeconomy.com/resources/images/sets/lego-75457-1_large-1.jpg",
           "pieces": "6,130",
           "minifigs": "7",
-          "availability": "Pending release",
+          "availability": "Retail",
           "theme": "Star Wars",
           "subtheme": "Ultimate Collector Series",
-          "year": "2026",
+          "year": "October 1, 2026",
           "price": "€749.99",
-          "retail": "1 October"
+          "retail": "Available at retail"
      },
      {
           "id": "72061",
@@ -9736,12 +9988,12 @@
           "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76787-1_large-1.jpg",
           "pieces": "401",
           "minifigs": "1",
-          "availability": "Pending release",
+          "availability": "Retail",
           "theme": "Wednesday",
           "subtheme": "None",
-          "year": "2026",
+          "year": "October 1, 2026",
           "price": "€39.99",
-          "retail": "1 October"
+          "retail": "Available at retail"
      },
      {
           "id": "76788",
@@ -9750,12 +10002,12 @@
           "src2": "https://www.brickeconomy.com/resources/images/sets/lego-76788-1_large-1.jpg",
           "pieces": "890",
           "minifigs": "3",
-          "availability": "Pending release",
+          "availability": "Retail",
           "theme": "Wednesday",
           "subtheme": "Miscellaneous",
-          "year": "2026",
+          "year": "October 1, 2026",
           "price": "€69.99",
-          "retail": "1 October"
+          "retail": "Available at retail"
      },
      {
           "id": "76462",
